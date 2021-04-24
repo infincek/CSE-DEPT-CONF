@@ -1,0 +1,102 @@
+baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+languageCode = "en"
+title = "DEPT of CSE Conf"
+
+theme = "devfest-theme-hugo"
+
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-37717223-9"
+
+
+
+[params]
+    title = "DEPT of CSE Conf"
+    date = "2020-11-05"
+    description = "CSE Conf"
+    images = ["https://www.ce-kgr.org/static/ccc3a57ef3d2827565bf808d107327df/c108b/main-block.jpg"]
+    email = "contact@devfesttoulouse.fr"
+    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
+    copyright = "We :heart:️ chocolatines"
+    cfpUrl = "https://conference-hall.io/public/event/4fkj9Dwj0L0sikzYCtgL"
+    subscriptionUrl = "http://eepurl.com/dps1j5"
+    appleTouchIcon = "/apple-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+    googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
+
+[params.partnerCategories]
+        platinium = "Kouign Amann"
+        gold = "Far"
+        silver = "Crepe"
+        startup = "Palet"
+        soutien = "Partners"
+        communautes = "Community"
+
+[params.logos]
+    jumbo = "https://www.ce-kgr.org/images/logo.png"
+    header = "https://www.ce-kgr.org/images/logo.png"
+    footer = "https://www.ce-kgr.org/images/moblogo.png"
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[languages.fr]
+    weight = 2
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles."
+
+[languages.fr.params.partnerCategories]
+        platinium = "Kouign Amann"
+        gold = "Far"
+        silver = "Crêpe"
+        startup = "Palet"
+        soutien = "Partenaires"
+        communautes = "Communautés"
+
+[taxonomies]
+  tag = "tags"
+
+  [privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
+
+[menu]
+[[menu.main]]
+    identifier = "CFP"
+    name = "CFP"
+    url = "https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD"
+    weight = 200
+    external = true
+
+#...    
+
+

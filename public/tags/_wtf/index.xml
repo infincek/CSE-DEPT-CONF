@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_wtf on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/tags/_wtf/</link>
+    <description>Recent content in _wtf on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/tags/_wtf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibilité - et si on laissait les utilisateurs personnaliser l’interface ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface/</guid>
+      <description>Des lecteurs et loupes d’écran aux claviers virtuels ; des styles utilisateurs aux CSS alternatives en passant par les nouvelles media queries : les navigateurs web et les systèmes d’exploitation fournissent déjà de nombreux mécanismes d’accessibilité pour permettre aux utilisateurs et utilisatrices en situation de handicap d’adapter les interfaces numériques à leurs besoins.
+Mais l’absence de support homogène entre les navigateurs et le manque de persistance de certains choix faits par les utilisateurs·rices ont involontairement donné naissance à la création de projets open source dédiés à l’accessibilité (extensions de navigateurs, style switchers, etc.</description>
+    </item>
+    
+    <item>
+      <title>Comment réussir sa première contribution open source ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comment_reussir_sa_premiere_contribution_open_source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comment_reussir_sa_premiere_contribution_open_source/</guid>
+      <description>Les projets open source ont investi notre vie de développeur : que cela soit au travers des frameworks, des librairies, des IDE ou de documentation, ce sont des outils qui améliorent notre travail au quotidien. De nombreuses opportunités s&amp;rsquo;offrent à nous pour participer à leur essor et ces opportunités sont toutes à notre portée.
+Je vous propose de découvrir les clefs pour réussir votre première contribution open source : - quelles sont les règles qui régissent ces projets ?</description>
+    </item>
+    
+    <item>
+      <title>Comprendre la langue de bois pour survivre en entreprise</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comprendre_la_langue_de_bois_pour_survivre_en_entreprise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comprendre_la_langue_de_bois_pour_survivre_en_entreprise/</guid>
+      <description>“En phase de montée en charge de la compétitivité collaborative, il faut coacher les alternatives terrain.” Vous n’avez rien compris, nous non plus!
+Dans ce talk, nous vous montrerons grâce à des exemples comment l’information peut être manipulée afin de servir une idée ou devenir un véritable traité de “pipeaulogie”. Et pour finir nous vous donnerons des conseils et des outils pour éviter de vous faire manipuler par ces informations.</description>
+    </item>
+    
+    <item>
+      <title>Développeurs en reconversion mais développeurs quand même !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/developpeurs_en_reconversion_mais_developpeurs_quand_meme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/developpeurs_en_reconversion_mais_developpeurs_quand_meme/</guid>
+      <description>Ces dernières années, les &amp;ldquo;fabriques de dev&amp;rdquo; et autres formations courtes explosent. C&amp;rsquo;est un fait, tout dev a été ou sera amené à travailler avec l&amp;rsquo;un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourquoi une reconversion dans ce genre d&amp;rsquo;organisation ? Qu&amp;rsquo;ont-ils appris lors de leurs formation express ? C&amp;rsquo;est fiable ce genre de dev ? Comment puis-je les intégrer au mieux dans ma structure ?
+Autant de questions que vous vous êtes sans doute déjà posées.</description>
+    </item>
+    
+    <item>
+      <title>Et si le design était en fait l&#39;affaire de tous ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/et_si_le_design_etait_en_fait_l_affaire_de_tous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/et_si_le_design_etait_en_fait_l_affaire_de_tous/</guid>
+      <description>En tant que designer, je design. En tant que développeur, il développe. Jusque-là tout est normal. Sauf que quand ce qui a été développé ne correspond pas, que les besoins évoluent, le temps s&amp;rsquo;accélère et des frictions éclatent. On cherche alors des responsables de part et d’autre et les échanges deviennent tendus.
+Ce genre de schéma arrive pour pleins de raisons, qu’elles soient techniques, communicationnelles et très souvent organisationnelles. Le rôle de designer n’est pas nécessairement inclus dans l’équipe tout comme une “démarche design”, il travaille en amont du sprint.</description>
+    </item>
+    
+    <item>
+      <title>Hacking noon</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__hacking_noon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__hacking_noon/</guid>
+      <description>Let&amp;rsquo;s contribute together to some open source projects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>L&#39;OSS en entreprise, causons peu, Koson bien !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/l_oss_en_entreprise__causons_peu__koson_bien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/l_oss_en_entreprise__causons_peu__koson_bien/</guid>
+      <description>Koson est la première librairie Kotlin fraîchement open sourcée par Lectra. Il s&amp;rsquo;agit d&amp;rsquo;un DSL qui permet de décrire du JSON de manière concise, puis de le sérialiser avec des options (pretty).
+Le plus dur pour faire de l&amp;rsquo;Open Source en entreprise, au delà de convaincre de son intérêt même, c&amp;rsquo;est d&amp;rsquo;industrialiser et d&amp;rsquo;automatiser les releases. On verra que les occasions pour en faire sont nombreuses et qu&amp;rsquo;il ne faut pas hésiter à se lancer.</description>
+    </item>
+    
+    <item>
+      <title>La jungle des licences open source 🤠</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/_la_jungle_des_licences_open_source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/_la_jungle_des_licences_open_source/</guid>
+      <description>Vous êtes vous déjà retrouvé dans une de ces situations ? * Vous avez ajouté une nouvelle dépendance à votre projet sans vérifier la licence et donc sans en connaître les impacts. * Vous avez voulu partager votre projet en Open Source mais ne saviez pas quelle licence utiliser. * Vous avez essayé de comprendre les licences Open Source mais vous vous êtes senti perdu.
+Si oui, alors je vous propose de mettre votre tenue d&amp;rsquo;aventurier et de partir à la découverte des Licences Open Source.</description>
+    </item>
+    
+    <item>
+      <title>La télémétrie au secours de l&#39;Agilité !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/la_telemetrie_au_secour_de_l_agilite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/la_telemetrie_au_secour_de_l_agilite/</guid>
+      <description>[REX] Comment j&amp;rsquo;ai &amp;ldquo;agilisé&amp;rdquo; une équipe de 29 développeurs ? Avec la Télémétrie Agile !
+Au coin bleu :
+Il y a moi, &amp;ldquo;Program Manager&amp;rdquo; depuis 3 belles années chez OVHcloud.
+Mes outils: Excel, JIRA et mes méthodes Agile comme SCRUM
+De l&amp;rsquo;autre, au coin rouge :
+Des équipes de DevOps, de SRE, spécialisées dans les Datas, les Metrics, les Logs et des outils managés comme Kubernetes.
+Leur outil pour monitorer serveurs, bases de données: GRAFANA.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi l&#39;avenir du numérique est responsable ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</guid>
+      <description>Les services numériques doivent nous aider. Ils doivent nous permettre de comprendre, d’appréhender et de résoudre les problématiques planétaire que nous avons et qui se multiplient. Malheureusement, nous n&amp;rsquo;utilisons pas la puissance de cette technologie au mieux ! Le numérique devient de plus en plus gras. Les obésiciels sont devenus monnaie courante et nous forcent; pour continuer de les utiliser, à changer de téléphone, de PC&amp;hellip;
+Nos services numérique sont (très) loin d&amp;rsquo;être éco-conçus au low-tech : ils sont de plus en plus énergivores, consomment de plus en plus de ressources, créent de + en + de disparités, de problèmes éthiques de problèmes d’accessibilités &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

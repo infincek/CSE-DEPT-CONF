@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/sessions/</link>
+    <description>Recent content in Sessions on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A la découverte de Jetpack Compose</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_jetpack_compose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_jetpack_compose/</guid>
+      <description>Annoncé à la Google I/0 2019, Jetpack Compose a pour vocation de devenir le nouveau système pour construire des vues dans les applications Android. Le projet a été annoncé mais il n&amp;rsquo;est que à ses débuts. Il n&amp;rsquo;existe aujourd&amp;rsquo;hui aucun artifact publié sur nos dépôts Maven, pour tester c&amp;rsquo;est pas terrible&amp;hellip; Oui mais le code source est disponible ! Alors découvrons ensemble comment récupérer ces sources, les packager et développons nos premiers écrans !</description>
+    </item>
+    
+    <item>
+      <title>A la découverte de la réalité augmentée avec ARCore</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_la_realite_augmentee_avec_arcore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_la_realite_augmentee_avec_arcore/</guid>
+      <description>Avec les annonces de l&amp;rsquo;arrivée de la réalité augmentée (ou RA) dans Google Maps et Google Search sur Android lors de Google IO 2019, nous constatons que la RA va prendre une place de plus en plus importante dans notre quotidien. La sortie d&amp;rsquo;ARCore en mars 2018 sur Android a simplifié le développement d’application en RA sur Android.
+Au cours de cette session, nous vous proposons de découvrir ARCore, via l’utilisation dans un navigateur, des applications natives ou des moteurs 3D comme Unity ainsi que les CloudAnchors qui permettent la persistance et le partage de positions d’objets dans les scènes de réalité augmentée, y compris avec des utilisateurs d’iOS.</description>
+    </item>
+    
+    <item>
+      <title>Accessibilité - et si on laissait les utilisateurs personnaliser l’interface ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface/</guid>
+      <description>Des lecteurs et loupes d’écran aux claviers virtuels ; des styles utilisateurs aux CSS alternatives en passant par les nouvelles media queries : les navigateurs web et les systèmes d’exploitation fournissent déjà de nombreux mécanismes d’accessibilité pour permettre aux utilisateurs et utilisatrices en situation de handicap d’adapter les interfaces numériques à leurs besoins.
+Mais l’absence de support homogène entre les navigateurs et le manque de persistance de certains choix faits par les utilisateurs·rices ont involontairement donné naissance à la création de projets open source dédiés à l’accessibilité (extensions de navigateurs, style switchers, etc.</description>
+    </item>
+    
+    <item>
+      <title>Accueil, Thé, Café et Viennoseries</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__open/</guid>
+      <description>Accueil, Thé, Café et Viennoseries</description>
+    </item>
+    
+    <item>
+      <title>Android Studio Profiler Discovery</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</guid>
+      <description>Court talk de découverte présentant l&amp;rsquo;outil Profiler de l&amp;rsquo;IDE Android Studio.
+Après une introduction d&amp;rsquo;utilisation de l&amp;rsquo;outil, je propose de réaliser une demo live permettant d&amp;rsquo;expliquer comment utiliser les différents outils proposés par le Profiler et comment configurer son application pour réaliser un profiling avancé.
+Nous verrons en détails les quatre outils de profiling :
+ L&amp;rsquo;utilisation du CPU L&amp;rsquo;utilisation de la mémoire vive Les requêtes réseau effectuées La consommation d&amp;rsquo;énergie  </description>
+    </item>
+    
+    <item>
+      <title>Apprenez à sécuriser votre cluster kubernetes par la pratique</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique/</guid>
+      <description>Habituellement, lors d’un challenge de sécurité type CTF ( https://ctf101.org/ ) l’objectif est de trouver la faille. Nous vous proposons de faire l’inverse : sécurisez un cluster kubernetes pour faire face à des mauvaises pratiques et failles courantes.
+Lors de cet atelier, vous aurez à disposition un cluster kubernetes soumis à différentes attaques. Vous serez alors accompagnés pour mettre en place les bonnes contre-mesures et sécuriser votre cluster.
+Prérequis : avoir son ordinateur, être à l’aise avec le shell et connaître les concepts de kubernetes et des conteneurs</description>
+    </item>
+    
+    <item>
+      <title>Are you interesting to manage your passwords like your code ? Come and discover how !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how/</guid>
+      <description>La gestion de mot de passe est une partie bien-souvent douloureuse, voir fastidieuse.
+Qui a raison? L’informations qui est en prod ou bien celle du Keepass, ou encore celle que l’on croit avoir configuré ?
+Le développement en collaboration est désormais beaucoup plus aisé depuis des outils comme SVN et désormais l’incontournable GIT, projet initié par Linus Torvald !
+Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
+    </item>
+    
+    <item>
+      <title>Change Data Capture in production</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</guid>
+      <description>OVH, 18 ans d’existence, est aujourd’hui le 1er cloud provider européen. Pour suivre et piloter son business, OVH a mis en place un datalake interne. L’idée étant de centraliser l’ensemble des données issues de plusieurs milliers de tables localisées dans ses différents datacentres pour ensuite générer les KPIs utiles au business. Le point essentiel est que ces données doivent être mises à jour continuellement. Cette présentation décrit le pipeline actuellement en production et les différentes itérations.</description>
+    </item>
+    
+    <item>
+      <title>Chrome devtools, du prototype à la production</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/chrome_devtools_du_prototype_a_la_production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/chrome_devtools_du_prototype_a_la_production/</guid>
+      <description>Chrome devtools: du prototype à la production
+Dans cette présentation des chrome devtools, je vous propose une série de démos rassemblées en trois thèmes: Développez vos prototypes avec les devtools: tips and tricks pour coder plus rapidement vos MVPs (CSS, Shortcuts, développement web mobile, responsive web design)
+Préparez votre webapp pour la production: Check List des bonnes pratiques, audits et recommandations depuis le panel d&amp;rsquo;Audit
+Corriger les bugs de production: Apprendre à mieux débugger avec les breakpoints et ses fonctionnalitées avancées</description>
+    </item>
+    
+    <item>
+      <title>Comment réussir sa première contribution open source ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comment_reussir_sa_premiere_contribution_open_source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comment_reussir_sa_premiere_contribution_open_source/</guid>
+      <description>Les projets open source ont investi notre vie de développeur : que cela soit au travers des frameworks, des librairies, des IDE ou de documentation, ce sont des outils qui améliorent notre travail au quotidien. De nombreuses opportunités s&amp;rsquo;offrent à nous pour participer à leur essor et ces opportunités sont toutes à notre portée.
+Je vous propose de découvrir les clefs pour réussir votre première contribution open source : - quelles sont les règles qui régissent ces projets ?</description>
+    </item>
+    
+    <item>
+      <title>Comment s&#39;attacher au databinding?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comment_s_attacher_au_databinding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comment_s_attacher_au_databinding/</guid>
+      <description>Vous ne voyez pas l&amp;rsquo;intérêt du MVVM? Vous avez encore des findViewById dans vos projets? Vous faites des cauchemars avec vos callbacks?
+Ce petit quickie est fait pour vous.
+Avec quelques petits exemples, je vais vous montrez ce que peut apporter le databinding Android pour améliorer votre code, le rendre plus maintenable et plus facilement testable.</description>
+    </item>
+    
+    <item>
+      <title>Comment ça se passe pour mettre en ligne une app quand on commence avec le cloud ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud/</guid>
+      <description>Tous les cloud provider promettent la même chose :
+&amp;ldquo;t’inquiètes ma caille, ton app elle va jamais tomber et tu pourras scale autant que tu veux !&amp;rdquo;
+Ok c&amp;rsquo;est cool mais avant d&amp;rsquo;en arriver là il faut que je réussisse à la mettre en ligne ma f*ck*ng app ?
+Et puis je ne suis pas expert cloud moi, je veux juste mettre en ligne mon app&amp;hellip;.
+En plus Gérard veut que ce soit fait pour hier !</description>
+    </item>
+    
+    <item>
+      <title>Compiler-Driven-Onboarding - open source in elm</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/compiler_driven_onboarding___open_source_in_elm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/compiler_driven_onboarding___open_source_in_elm/</guid>
+      <description>De la première &amp;ldquo;good first issue&amp;rdquo; résolue jusqu&amp;rsquo;à une PR conséquente, je raconterai comment j&amp;rsquo;ai intégré le projet open source elm-in-elm (https://github.com/elm-in-elm/compiler).
+En suivant pas à pas mon expérience, nous verrons comment : * simplifier des tests ; * ajouter de nouvelles de fonctionnalités sans se perdre dans le code ; * éviter un bug sournois avant même de compiler ; * détecter un bug alors que &amp;ldquo;tout semble marcher&amp;rdquo; ; * modifier le code pour que les nouveaux contributeurs ne tombent pas dans le même piège que moi ; * aider les nouveaux contributeurs à participer au projet.</description>
+    </item>
+    
+    <item>
+      <title>Comprendre la langue de bois pour survivre en entreprise</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comprendre_la_langue_de_bois_pour_survivre_en_entreprise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comprendre_la_langue_de_bois_pour_survivre_en_entreprise/</guid>
+      <description>“En phase de montée en charge de la compétitivité collaborative, il faut coacher les alternatives terrain.” Vous n’avez rien compris, nous non plus!
+Dans ce talk, nous vous montrerons grâce à des exemples comment l’information peut être manipulée afin de servir une idée ou devenir un véritable traité de “pipeaulogie”. Et pour finir nous vous donnerons des conseils et des outils pour éviter de vous faire manipuler par ces informations.</description>
+    </item>
+    
+    <item>
+      <title>Deuxième keynote de clôture</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/keynote_close_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/keynote_close_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker, Kubernetes &amp; Istio - Tips, tricks &amp; tools</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</guid>
+      <description>Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l&amp;rsquo;utilisation quotidienne peut être assez tricky. - Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ? - Avez-vous des difficultés avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ? - Quand tout va mal, comment déboguez-vous un conteneur ? Et plusieurs pods ?</description>
+    </item>
+    
+    <item>
+      <title>Déjeuner</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__lunch/</guid>
+      <description>Bon appétit</description>
+    </item>
+    
+    <item>
+      <title>Développeurs en reconversion mais développeurs quand même !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/developpeurs_en_reconversion_mais_developpeurs_quand_meme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/developpeurs_en_reconversion_mais_developpeurs_quand_meme/</guid>
+      <description>Ces dernières années, les &amp;ldquo;fabriques de dev&amp;rdquo; et autres formations courtes explosent. C&amp;rsquo;est un fait, tout dev a été ou sera amené à travailler avec l&amp;rsquo;un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourquoi une reconversion dans ce genre d&amp;rsquo;organisation ? Qu&amp;rsquo;ont-ils appris lors de leurs formation express ? C&amp;rsquo;est fiable ce genre de dev ? Comment puis-je les intégrer au mieux dans ma structure ?
+Autant de questions que vous vous êtes sans doute déjà posées.</description>
+    </item>
+    
+    <item>
+      <title>ElasticSearch, la colonne vertébrale de mon projet data</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</guid>
+      <description>La mise en place d’un projet de management de données passe souvent par cette question cruciale : Comment stocker mes données ?
+Mais que se passe-t-il lorsque je veux pouvoir interagir avec toutes ces données ? Nous avons pris le parti d&amp;rsquo;utiliser à fond ElasticSearch pour tout ce qui touche de près ou de loin à l’utilisation de nos données.
+Qu&amp;rsquo;il s&amp;rsquo;agisse de la récupération d&amp;rsquo;une simple entité, de la pagination d&amp;rsquo;une liste de milliers d&amp;rsquo;éléments, ou d&amp;rsquo;une recherche libre par l&amp;rsquo;utilisateur au travers de toutes les entités, nos applications exploitent les API d&amp;rsquo;Elasticsearch.</description>
+    </item>
+    
+    <item>
+      <title>Eliminez rapidement des bottlenecks de performance avec QuickPerf</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</guid>
+      <description>Supposons que vous développiez une application en Java : comment détecter rapidement la présence d&amp;rsquo;importants goulots d&amp;rsquo;étranglement de performance (bottlenecks) ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Comment se rendre compte rapidement que votre application va consommer énormément de mémoire ? Nous allons montrer comment la librairie de test QuickPerf peut vous aider à répondre à ces questions.</description>
+    </item>
+    
+    <item>
+      <title>Et si le design était en fait l&#39;affaire de tous ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/et_si_le_design_etait_en_fait_l_affaire_de_tous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/et_si_le_design_etait_en_fait_l_affaire_de_tous/</guid>
+      <description>En tant que designer, je design. En tant que développeur, il développe. Jusque-là tout est normal. Sauf que quand ce qui a été développé ne correspond pas, que les besoins évoluent, le temps s&amp;rsquo;accélère et des frictions éclatent. On cherche alors des responsables de part et d’autre et les échanges deviennent tendus.
+Ce genre de schéma arrive pour pleins de raisons, qu’elles soient techniques, communicationnelles et très souvent organisationnelles. Le rôle de designer n’est pas nécessairement inclus dans l’équipe tout comme une “démarche design”, il travaille en amont du sprint.</description>
+    </item>
+    
+    <item>
+      <title>Faire du hard en soft</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</guid>
+      <description>Lorsqu&amp;rsquo;on souhaite designer sa propre puce, on est forcément confronté à l&amp;rsquo;utilisation d&amp;rsquo;un langage de description matérielle type Verilog ou VHDL (mais ce ne sont pas les seuls !) pour concevoir un système pour un circuit de type FPGA.
+Cependant, il existe des méthodes qui permettent de générer un système matériel directement en Python ! Ce qui permet aux &amp;ldquo;softeux&amp;rdquo; de pouvoir générer un processeur complet avec toute la couche logicielle ajoutée (du bootloader jusqu&amp;rsquo;à un petit Linux) sans mettre les mains dans le cambouis matériel.</description>
+    </item>
+    
+    <item>
+      <title>Flutter Web - que peut-on faire aujourd&#39;hui ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</guid>
+      <description>Flutter est un framework permettant de générer à partir d&amp;rsquo;une seule base de code des applications pour les mobiles (Android/iOS), le desktop (Windows/Mac/Linux) &amp;hellip; mais aussi le Web !
+Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. Nous reviendrons dans ce talk sur ce qu&amp;rsquo;il est possible de faire aujourd&amp;rsquo;hui avec cette technologie (possibilités et limitations).</description>
+    </item>
+    
+    <item>
+      <title>Functional programming - l&#39;architecture du choix</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/functional_programming___l_architecture_du_choix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/functional_programming___l_architecture_du_choix/</guid>
+      <description>&amp;ldquo;La programmation fonctionnelle, c&amp;rsquo;est trop compliqué !&amp;rdquo;
+Cette phrase, je l’ai entendue je ne sais combien de fois. Mais pourquoi autant de réticence ?
+Depuis quelques années émerge de nombreux talks d’introduction à la programmation fonctionnelle mais la réalité reste qu’il s’agit d’une pratique marginale sur l’ensemble des développements.
+Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
+ Le temps d’apprentissage Le jargon qui fait peur Les concepts mathématiques &amp;hellip;  Et si le problème n’était pas dans la manière dont on explique la programmation fonctionnelle mais plutôt comment cette pratique est introduite dans le quotidien d&amp;rsquo;une équipe ?</description>
+    </item>
+    
+    <item>
+      <title>GraalVM- la VM polyglotte</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/graalvm__la_vm_polyglotte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/graalvm__la_vm_polyglotte/</guid>
+      <description>“Cette librairie n&amp;rsquo;est pas disponible dans mon langage de programmation. Je dois la réécrire.&amp;ldquo;
+&amp;ldquo;Ce langage conviendrait parfaitement à mon problème, mais nous ne pouvons pas l&amp;rsquo;exécuter dans notre environnement.&amp;ldquo;
+&amp;ldquo;Ce problème est déjà résolu dans tel ou tel langage, mais ce langage est trop lent.&amp;ldquo;
+Oyez , oyez Développeurs! Plus d’inquiétude, GraalVM arrive à la rescousse!</description>
+    </item>
+    
+    <item>
+      <title>Hacking noon</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__hacking_noon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__hacking_noon/</guid>
+      <description>Let&amp;rsquo;s contribute together to some open source projects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hey Google, send 20€ to Mum! - Live coding, OpenBanking, Voice Assistants and its ethics</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</guid>
+      <description>Not sure if I should write in English or French here. Website is in english so I&amp;rsquo;ll go for that but I can do all in French as well :). I studied in Brest so I&amp;rsquo;d be happy to do a demo there again!
+I think this talk definitely matches the event for several reasons: * Voice assistants are coming, and they will be part of our future! Kids are already used to using them daily.</description>
+    </item>
+    
+    <item>
+      <title>Implémenter un Webhook, pas si simple !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/implementer_un_webhook__pas_si_simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/implementer_un_webhook__pas_si_simple/</guid>
+      <description>Les Webhooks, vous connaissez ? Vous en avez sans doute déjà utilisé, par exemple pour être notifié d’un commit sur Github, pour réagir à l’arrivée d’un SMS avec Twilio, ou pour que votre chatbot Dialogflow réponde à ses interlocuteurs.
+Côté consommateur de Webhook, cela semble plutôt facile à développer… Côté serveur, c’est “juste” une API à implémenter, non ? Hmm… En fait, nous allons voir que ce n’est peut-être pas si simple que cela !</description>
+    </item>
+    
+    <item>
+      <title>J&#39;ai hacké ma SPA avec C#</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</guid>
+      <description>Le format d&amp;rsquo;instruction binaire WebAssembly a ouvert la porte des navigateurs à tous les langages de haut-niveaux en leur fournissant une cible de compilation portable prise en charge depuis 2017 par les principaux navigateurs web.
+La communauté des développeurs .NET Core et ASP .NET Core s&amp;rsquo;est engouffrée dans la brèche pour respecter la promesse initiale de .NET : une même filière de développement permettant d&amp;rsquo;adresser tous les besoins.
+Les SPA étaient, jusqu&amp;rsquo;à présent, réservées aux développeurs Javascript et Typescript.</description>
+    </item>
+    
+    <item>
+      <title>Joue-la comme Stanley Kubrick en WebGL</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/joue_la_comme_stanley_kubrick_en_webgl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/joue_la_comme_stanley_kubrick_en_webgl/</guid>
+      <description>Créer une scène en Three.js affichant un cube c&amp;rsquo;est très facile. Mais qu&amp;rsquo;en est-il lorsqu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;implémenter une application full WebGL avec les frameworks modernes ( du type angular, react, svelte, vue, etc. ) ? Facebook, Google, Snapchat et pleins d&amp;rsquo;autres compagnies ont déjà glisser vers cette nouvelle dimension. Avant de se la jouer comme Stanley Kubrick, il vous faudra connaitre les pièges à éviter et comment améliorer les performances de votre application (les fameux 60fps).</description>
+    </item>
+    
+    <item>
+      <title>Keynote d&#39;ouverture</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/keynote_open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/keynote_open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin Multiplatform - mutualiser du code sur iOS et Android</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android/</guid>
+      <description>Kotlin Multiplatform est une solution de développement open-source permettant de mutualiser du code pour des applications iOS et Android. De vraies applications natives sans compromis qualitatif mais avec une code base en Kotlin partagée pour tout ce qui n’est pas spécifique à la plateforme iOS ou Android.
+Durant ce workshop nous allons faire une introduction pratique à Kotlin Multiplatform en réalisant deux applications natives (iOS et Android) partageant du code métier en Kotlin.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;OSS en entreprise, causons peu, Koson bien !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/l_oss_en_entreprise__causons_peu__koson_bien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/l_oss_en_entreprise__causons_peu__koson_bien/</guid>
+      <description>Koson est la première librairie Kotlin fraîchement open sourcée par Lectra. Il s&amp;rsquo;agit d&amp;rsquo;un DSL qui permet de décrire du JSON de manière concise, puis de le sérialiser avec des options (pretty).
+Le plus dur pour faire de l&amp;rsquo;Open Source en entreprise, au delà de convaincre de son intérêt même, c&amp;rsquo;est d&amp;rsquo;industrialiser et d&amp;rsquo;automatiser les releases. On verra que les occasions pour en faire sont nombreuses et qu&amp;rsquo;il ne faut pas hésiter à se lancer.</description>
+    </item>
+    
+    <item>
+      <title>La jungle des licences open source 🤠</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/_la_jungle_des_licences_open_source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/_la_jungle_des_licences_open_source/</guid>
+      <description>Vous êtes vous déjà retrouvé dans une de ces situations ? * Vous avez ajouté une nouvelle dépendance à votre projet sans vérifier la licence et donc sans en connaître les impacts. * Vous avez voulu partager votre projet en Open Source mais ne saviez pas quelle licence utiliser. * Vous avez essayé de comprendre les licences Open Source mais vous vous êtes senti perdu.
+Si oui, alors je vous propose de mettre votre tenue d&amp;rsquo;aventurier et de partir à la découverte des Licences Open Source.</description>
+    </item>
+    
+    <item>
+      <title>La télémétrie au secours de l&#39;Agilité !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/la_telemetrie_au_secour_de_l_agilite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/la_telemetrie_au_secour_de_l_agilite/</guid>
+      <description>[REX] Comment j&amp;rsquo;ai &amp;ldquo;agilisé&amp;rdquo; une équipe de 29 développeurs ? Avec la Télémétrie Agile !
+Au coin bleu :
+Il y a moi, &amp;ldquo;Program Manager&amp;rdquo; depuis 3 belles années chez OVHcloud.
+Mes outils: Excel, JIRA et mes méthodes Agile comme SCRUM
+De l&amp;rsquo;autre, au coin rouge :
+Des équipes de DevOps, de SRE, spécialisées dans les Datas, les Metrics, les Logs et des outils managés comme Kubernetes.
+Leur outil pour monitorer serveurs, bases de données: GRAFANA.</description>
+    </item>
+    
+    <item>
+      <title>Les risques de la revue de code</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/les_risques_de_la_revue_de_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/les_risques_de_la_revue_de_code/</guid>
+      <description>Je suis un développeur qui n&amp;rsquo;aime pas la revue de code, et je vais vous expliquer tout le mal que j&amp;rsquo;en pense.
+Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise foi. C&amp;rsquo;est une démonstration par l&amp;rsquo;absurde des intérêts de la revue de code. En mettant les rieurs de mon côté, je vais les convaincre qu&amp;rsquo;ils peuvent ainsi améliorer les pratiques de développement et la collaboration au sein de leurs équipes.</description>
+    </item>
+    
+    <item>
+      <title>Monitorer ses APIs à partir de zéro, viser l&#39;au-delà, et la dimension business</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</guid>
+      <description>Initialement abordé sous un angle technique, le monitoring d&amp;rsquo;API gagne à évoluer en maturité pour devenir pourvoyeur d&amp;rsquo;informations à caractère stratégique. Dans un contexte de déploiement d&amp;rsquo;APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs. Sans avoir la prétention d&amp;rsquo;être exhaustif sur les techniques à mettre en œuvre, nous montrerons que le choix des métriques est crucial, tout autant que l&amp;rsquo;exploitation qui est en faite. Ainsi, la collecte de métriques ne sera plus uniquement un enjeu IT, mais également business dans une démarche d&amp;rsquo;amélioration de l&amp;rsquo;expérience client.</description>
+    </item>
+    
+    <item>
+      <title>Ok Toaster - Building interaction for the next generation</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</guid>
+      <description>As the younger generation sees us talk to cylindrical inanimate objects that respond to us, they are getting naturally used to this kind of interactions. As a business, getting ready to answer their needs will become inevitable in the next few years to remain competitive. As a developer, knowing how to build a voice bot will be a valuable asset. So, where should you start? Let me guide you through the voice transformation path with examples and technical explanation about how to easily add conversational features in your app and access them through the Google Assistant.</description>
+    </item>
+    
+    <item>
+      <title>Pause</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__pause/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__pause/</guid>
+      <description>Pause</description>
+    </item>
+    
+    <item>
+      <title>Playing Videos on Android? ExoPlayer2 at your service!</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</guid>
+      <description>Playing videos might be easy at first but this can get very tricky when you have to support multiple video/audio formats or offline medias. But no worries ExoPlayer2 is there for you!
+This session will cover the basics of the ExoPlayer such as how to play a video thanks to the library and its core features. We&amp;rsquo;ll go through its architecture, how to set it up and what video format ExoPlayer supports from classic MP4 to adaptive streams like HLS or DASH with protected content.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi l&#39;avenir du numérique est responsable ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</guid>
+      <description>Les services numériques doivent nous aider. Ils doivent nous permettre de comprendre, d’appréhender et de résoudre les problématiques planétaire que nous avons et qui se multiplient. Malheureusement, nous n&amp;rsquo;utilisons pas la puissance de cette technologie au mieux ! Le numérique devient de plus en plus gras. Les obésiciels sont devenus monnaie courante et nous forcent; pour continuer de les utiliser, à changer de téléphone, de PC&amp;hellip;
+Nos services numérique sont (très) loin d&amp;rsquo;être éco-conçus au low-tech : ils sont de plus en plus énergivores, consomment de plus en plus de ressources, créent de + en + de disparités, de problèmes éthiques de problèmes d’accessibilités &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Première keynote de clôture</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/keynote_close_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/keynote_close_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis du Clé/Valeur au Multi-Modèle</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</guid>
+      <description>Vous connaissez surement Redis l&amp;rsquo;une des bases de données NoSQL les plus populaires chez les développeurs.
+Vous l&amp;rsquo;utilisez peut être déjà, mais surement de façon simple: un cache clé/valeur.
+Cette présentation qui s&amp;rsquo;appuie sur de nombreuses démonstrations va vous permettre de découvrir la puissance de Redis et son système d&amp;rsquo;extensions (les Modules Redis). Redis vous permet maintenant de gérer plusieurs modèles de données: Clé/Valeur, Document/JSON, Time Series, Streaming Log, Search&amp;hellip; pour résumé une base de donnée polyglotte, comme vos applications!</description>
+    </item>
+    
+    <item>
+      <title>Retour vers le java.util.concurrent.Future...</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/retour_vers_le_java_util_concurrent_future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/retour_vers_le_java_util_concurrent_future/</guid>
+      <description>La programmation réactive, tout le monde en parle, l’avez vous vraiment cernée ?
+Nous développerons une application traitant des events.
+Vous avez envie de la développer de manière réactive. Nom de zeus ! Nous sommes revenus à l’époque de l’impératif. Pour éviter les paradoxes spatio-temporels nous devrons voyager à travers les époques.
+Impératif, callback hell, bloquant, c’est pas le pied&amp;hellip;
+Sous le capot, vous appréhenderez les avantages et inconvénients des différents paradigmes.</description>
+    </item>
+    
+    <item>
+      <title>Supercharge your builds with Bazel</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/supercharge_your_builds_with_bazel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/supercharge_your_builds_with_bazel/</guid>
+      <description>Vous aussi vous souffrez des temps de builds anormalement long de vos apps ? Savez-vous que sur le project Angular, par exemple, nous avons réussi à réduire le temps de build de 1 heure à 7min ?! Comment ? Eh bien, grâce à Bazel.
+Bazel est un outil open source capable d&amp;rsquo;orchestrer nos builds de manière distribuée à la fois localement sur nos machines mais aussi dans le Cloud. Il prend en charge tout type de technologie front ou back, y compris les applications mobiles et Web.</description>
+    </item>
+    
+    <item>
+      <title>The Flutter Journey to a Production App</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/the_flutter_journey_to_a_production_app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/the_flutter_journey_to_a_production_app/</guid>
+      <description>In this talk, I&amp;rsquo;ll explain the process of turning an idea into an app, building it, publishing and lessons learned along the way.
+The app is 100% in Flutter and powered by Firebase. Thanks to the open source nature of the platform and external dependencies as well as features of the Dart programming language, the development of the app could be done very quickly. The app is currently in production and has 100+ daily active users.</description>
+    </item>
+    
+    <item>
+      <title>The Sound of Silence- Des APIs Web pour l&#39;accessibilité des déficiences visuelles et auditives</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/the_sound_of_silence__des_apis_web_pour_l_accessibilite_des_deficiences_visuelles_et_auditives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/the_sound_of_silence__des_apis_web_pour_l_accessibilite_des_deficiences_visuelles_et_auditives/</guid>
+      <description>Selon l&amp;rsquo;OMS, il y a dans le monde 253 millions de personnes présentant une déficience visuelle et 360 millions présentant une déficience auditive. Soit entre 2 à 3 fois plus que d&amp;rsquo;utilisateurs d&amp;rsquo;Internet Explorer.
+Et pourtant, on préfère optimiser pour Internet Explorer plutôt que pour les déficiences visuelles et auditives.
+Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces dernières années pour nous aider à construire des applications web inclusives.</description>
+    </item>
+    
+    <item>
+      <title>The web capabilities project- Better, Smoother, Sexier</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</guid>
+      <description>Fonction Offline: ✓ Fonction Installable: ✓ Accéder aux contacts : ✓ QUOI ? on peut accéder aux contacts ? Ecrire sur le file syste: ✓ NAN, Sérieux, ça aussi?  Vous l&amp;rsquo;avez compris, dans ce talk, on a pour objectif de vous présenter toutes les nouveautés de la plateformes web qui étaient jusqu&amp;rsquo;à aujourd&amp;rsquo;hui réservées au développement natif.</description>
+    </item>
+    
+    <item>
+      <title>Trucs et astuces pour consommer une API REST</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</guid>
+      <description>Consommer une API REST fait désormais partie de notre quotidien de développeur. Que ce soit pour appeler un composant de notre belle architecture micro-services, un service externe hébergé par un tiers, réaliser un appel HTTP est plus que courant dans nos applications. Nous avons à disposition pléthore de ressources pour bien concevoir son API REST mais comment faisons-nous pour en consommer une de manière efficace ?
+ Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
+    </item>
+    
+    <item>
+      <title>Une décennie d&#39;exploitation de vos applications dans le Cloud avec des conteneurs sécurisés ... Evolution d&#39;un PAAS vu de l&#39;intérieur.</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</guid>
+      <description>Il a fallu 4 ans à Google App Engine pour passer de Java 7 à Java 8 &amp;hellip; Juste pour une mise à niveau simple de JVM?. Simple &amp;hellip; ou peut-être pas? Google App Engine est connu pour être un PAAS fonctionnant sur le système Borg de Google, le gestionnaire de cluster interne qui exécute des millions de jobs pour des millions d&amp;rsquo;applications &amp;hellip; Les origines de Kubernetes Open Source proviennent des concepts Borg.</description>
+    </item>
+    
+    <item>
+      <title>Vous livrez encore des bugs en prod ?! 😱</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</guid>
+      <description>Le stagiaire a encore frappé ! C&amp;rsquo;était pourtant simple de passer le montant de la transaction en premier argument et le timestamp en second, non ? Et du coup, vous avez un problème à 1530795303€&amp;hellip;
+Mais&amp;hellip; est-ce vraiment sa faute ? Est-ce qu&amp;rsquo;on n&amp;rsquo;aurait pas dû empêcher que cette erreur puisse même se produire ?
+Je vous affirme au contraire qu&amp;rsquo;il est de notre devoir de viser le zéro bugs !</description>
+    </item>
+    
+  </channel>
+</rss>

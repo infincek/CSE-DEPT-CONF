@@ -1,0 +1,26 @@
+- key: lunchroom
+  label: Cenareo
+  description: Hall sponsors / Salle déjeuner
+  skip: true
+- key: halls
+  label: Halls
+  description: Halls
+  skip: true
+- key: office-hours
+  label: Cenareo
+  description: Office-hours
+- key: room1
+  label: Amphi Guicher
+  description: Amphi Guicher
+- key: room2
+  label: Amphi 1
+  description: Amphi 1
+- key: room3
+  label: B01
+  description: B01
+- key: room4
+  label: Amphi 2
+  description: Amphi 2
+- key: room5
+  label: A009
+  description: A009

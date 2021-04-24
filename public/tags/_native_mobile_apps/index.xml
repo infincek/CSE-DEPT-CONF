@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_native_mobile_apps on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/tags/_native_mobile_apps/</link>
+    <description>Recent content in _native_mobile_apps on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/tags/_native_mobile_apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A la découverte de Jetpack Compose</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_jetpack_compose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_jetpack_compose/</guid>
+      <description>Annoncé à la Google I/0 2019, Jetpack Compose a pour vocation de devenir le nouveau système pour construire des vues dans les applications Android. Le projet a été annoncé mais il n&amp;rsquo;est que à ses débuts. Il n&amp;rsquo;existe aujourd&amp;rsquo;hui aucun artifact publié sur nos dépôts Maven, pour tester c&amp;rsquo;est pas terrible&amp;hellip; Oui mais le code source est disponible ! Alors découvrons ensemble comment récupérer ces sources, les packager et développons nos premiers écrans !</description>
+    </item>
+    
+    <item>
+      <title>A la découverte de la réalité augmentée avec ARCore</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_la_realite_augmentee_avec_arcore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_la_realite_augmentee_avec_arcore/</guid>
+      <description>Avec les annonces de l&amp;rsquo;arrivée de la réalité augmentée (ou RA) dans Google Maps et Google Search sur Android lors de Google IO 2019, nous constatons que la RA va prendre une place de plus en plus importante dans notre quotidien. La sortie d&amp;rsquo;ARCore en mars 2018 sur Android a simplifié le développement d’application en RA sur Android.
+Au cours de cette session, nous vous proposons de découvrir ARCore, via l’utilisation dans un navigateur, des applications natives ou des moteurs 3D comme Unity ainsi que les CloudAnchors qui permettent la persistance et le partage de positions d’objets dans les scènes de réalité augmentée, y compris avec des utilisateurs d’iOS.</description>
+    </item>
+    
+    <item>
+      <title>Android Studio Profiler Discovery</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</guid>
+      <description>Court talk de découverte présentant l&amp;rsquo;outil Profiler de l&amp;rsquo;IDE Android Studio.
+Après une introduction d&amp;rsquo;utilisation de l&amp;rsquo;outil, je propose de réaliser une demo live permettant d&amp;rsquo;expliquer comment utiliser les différents outils proposés par le Profiler et comment configurer son application pour réaliser un profiling avancé.
+Nous verrons en détails les quatre outils de profiling :
+ L&amp;rsquo;utilisation du CPU L&amp;rsquo;utilisation de la mémoire vive Les requêtes réseau effectuées La consommation d&amp;rsquo;énergie  </description>
+    </item>
+    
+    <item>
+      <title>Comment s&#39;attacher au databinding?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comment_s_attacher_au_databinding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comment_s_attacher_au_databinding/</guid>
+      <description>Vous ne voyez pas l&amp;rsquo;intérêt du MVVM? Vous avez encore des findViewById dans vos projets? Vous faites des cauchemars avec vos callbacks?
+Ce petit quickie est fait pour vous.
+Avec quelques petits exemples, je vais vous montrez ce que peut apporter le databinding Android pour améliorer votre code, le rendre plus maintenable et plus facilement testable.</description>
+    </item>
+    
+    <item>
+      <title>Faire du hard en soft</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</guid>
+      <description>Lorsqu&amp;rsquo;on souhaite designer sa propre puce, on est forcément confronté à l&amp;rsquo;utilisation d&amp;rsquo;un langage de description matérielle type Verilog ou VHDL (mais ce ne sont pas les seuls !) pour concevoir un système pour un circuit de type FPGA.
+Cependant, il existe des méthodes qui permettent de générer un système matériel directement en Python ! Ce qui permet aux &amp;ldquo;softeux&amp;rdquo; de pouvoir générer un processeur complet avec toute la couche logicielle ajoutée (du bootloader jusqu&amp;rsquo;à un petit Linux) sans mettre les mains dans le cambouis matériel.</description>
+    </item>
+    
+    <item>
+      <title>Kotlin Multiplatform - mutualiser du code sur iOS et Android</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android/</guid>
+      <description>Kotlin Multiplatform est une solution de développement open-source permettant de mutualiser du code pour des applications iOS et Android. De vraies applications natives sans compromis qualitatif mais avec une code base en Kotlin partagée pour tout ce qui n’est pas spécifique à la plateforme iOS ou Android.
+Durant ce workshop nous allons faire une introduction pratique à Kotlin Multiplatform en réalisant deux applications natives (iOS et Android) partageant du code métier en Kotlin.</description>
+    </item>
+    
+    <item>
+      <title>Ok Toaster - Building interaction for the next generation</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</guid>
+      <description>As the younger generation sees us talk to cylindrical inanimate objects that respond to us, they are getting naturally used to this kind of interactions. As a business, getting ready to answer their needs will become inevitable in the next few years to remain competitive. As a developer, knowing how to build a voice bot will be a valuable asset. So, where should you start? Let me guide you through the voice transformation path with examples and technical explanation about how to easily add conversational features in your app and access them through the Google Assistant.</description>
+    </item>
+    
+    <item>
+      <title>Playing Videos on Android? ExoPlayer2 at your service!</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</guid>
+      <description>Playing videos might be easy at first but this can get very tricky when you have to support multiple video/audio formats or offline medias. But no worries ExoPlayer2 is there for you!
+This session will cover the basics of the ExoPlayer such as how to play a video thanks to the library and its core features. We&amp;rsquo;ll go through its architecture, how to set it up and what video format ExoPlayer supports from classic MP4 to adaptive streams like HLS or DASH with protected content.</description>
+    </item>
+    
+    <item>
+      <title>The Flutter Journey to a Production App</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/the_flutter_journey_to_a_production_app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/the_flutter_journey_to_a_production_app/</guid>
+      <description>In this talk, I&amp;rsquo;ll explain the process of turning an idea into an app, building it, publishing and lessons learned along the way.
+The app is 100% in Flutter and powered by Firebase. Thanks to the open source nature of the platform and external dependencies as well as features of the Dart programming language, the development of the app could be done very quickly. The app is currently in production and has 100+ daily active users.</description>
+    </item>
+    
+  </channel>
+</rss>

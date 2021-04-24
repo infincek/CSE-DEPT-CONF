@@ -1,0 +1,22 @@
+share:
+  - name: facebook
+    url: https://devfest.duboutdumonde.bzh/
+  - name: twitter
+    url: https://devfest.duboutdumonde.bzh/
+
+follow:
+  - name: twitter
+    url: https://twitter.com/devfestbdm
+
+content:
+  - title: footer_about
+    links:
+      - name: FinistDevs
+        url: http://finistdevs.org/
+        newTab: true
+      - name: Code d'Armor
+        url: https://codedarmor.fr/
+        newTab: true
+      - nameKey: footer_coc
+        url: code-of-conduct/
+        newTab: false

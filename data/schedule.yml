@@ -1,0 +1,170 @@
+- day: '2020-02-28'
+  start: '08:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: the_web_capabilities_project__better__smoother__sexier
+        - slot: slot-2
+          talk: monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-3
+          talk: the_flutter_journey_to_a_production_app
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: faire_du_hard_en_soft
+        - slot: slot-lt-2
+          talk: android_studio_profiler_discovery
+        - slot: slot-lt-3
+          talk: l_oss_en_entreprise__causons_peu__koson_bien
+        - slot: slot-4
+          talk: redis_du_cle_valeur_au_multi_modele
+        - slot: slot-5
+          talk: functional_programming___l_architecture_du_choix        
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-6
+          talk: une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur
+        - slot: slot-7
+          talk: chrome_devtools_du_prototype_a_la_production   
+        - slot: pause-4
+          talk: __pause
+        - slot: keynote-close-1
+          talk: keynote_close_1
+        - slot: keynote-close-2
+          talk: keynote_close_2
+    - room: room2
+      slots:
+        - slot: open
+          talk: __open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: implementer_un_webhook__pas_si_simple
+        - slot: slot-2
+          talk: accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-3
+          talk: supercharge_your_builds_with_bazel
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: comment_s_attacher_au_databinding
+        - slot: slot-lt-2
+          talk: developpeurs_en_reconversion_mais_developpeurs_quand_meme 
+        - slot: slot-lt-3
+          talk: flutter_web___que_peut_on_faire_aujourd_hui
+        - slot: slot-4
+          talk: eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf
+        - slot: slot-5
+          talk: pourquoi_l_avenir_du_numerique_est__responsable       
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-6
+          talk: a_la_decouverte_de_la_realite_augmentee_avec_arcore
+        - slot: slot-7
+          talk: comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud 
+        - slot: pause-4
+          talk: __pause
+
+    - room: room3
+      slots:
+        - slot: open
+          talk: __open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: change_data_capture_in_production
+        - slot: slot-2
+          talk: docker__kubernetes___istio___tips__tricks___tools
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-3
+          talk: la_telemetrie_au_secour_de_l_agilite    
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: joue_la_comme_stanley_kubrick_en_webgl
+        - slot: slot-lt-2
+          talk: comment_reussir_sa_premiere_contribution_open_source
+        - slot: slot-lt-3
+          talk: are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how
+        - slot: slot-4
+          talk: _ok_toaster____building_interaction_for_the_next_generation
+        - slot: slot-5
+          talk: a_la_decouverte_de_jetpack_compose        
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-6
+          talk: graalvm__la_vm_polyglotte
+        - slot: slot-7
+          talk: playing_videos_on_android__exoplayer2_at_your_service 
+        - slot: pause-4
+          talk: __pause
+    - room: room4
+      slots:
+        - slot: open
+          talk: __open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: et_si_le_design_etait_en_fait_l_affaire_de_tous
+        - slot: slot-2
+          talk: vous_livrez_encore_des_bugs_en_prod
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-3
+          talk: elasticsearch__la_colonne_vertebrale_de_mon_projet_data    
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: _la_jungle_des_licences_open_source
+        - slot: slot-lt-2
+          talk: les_risques_de_la_revue_de_code
+        - slot: slot-lt-3
+          talk: comprendre_la_langue_de_bois_pour_survivre_en_entreprise
+        - slot: slot-4
+          talk: trucs_et_astuces_pour_consommer_une_api_rest
+        - slot: slot-5
+          talk: the_sound_of_silence__des_apis_web_pour_l_accessibilite_des_deficiences_visuelles_et_auditives        
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-6
+          talk: compiler_driven_onboarding___open_source_in_elm
+        - slot: slot-7
+          talk: retour_vers_le_java_util_concurrent_future 
+        - slot: pause-4
+          talk: __pause
+    - room: room5
+      slots:
+        - slot: open
+          talk: __open
+        - slot: pause-1
+          talk: __pause
+        - slot: lab-1
+          talk: kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-3
+          talk: hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics   
+        - slot: lunch
+          talk: __lunch
+        - slot: lab-2
+          talk: __hacking_noon
+        - slot: lab-3
+          talk: apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique    
+        - slot: pause-3
+          talk: __pause
+        - slot: lab-4
+          talk: __hacking_noon
+        - slot: pause-4
+          talk: __pause

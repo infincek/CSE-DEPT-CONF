@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/speakers/</link>
+    <description>Recent content in Speakers on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/audrey_maniez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/audrey_maniez/</guid>
+      <description>Audrey Maniez est experte accessibilité senior et co-gérante chez Access42. Sa maîtrise poussée des différentes normes d’accessibilité numérique (WCAG 2.0 et 2.1, ATAG 2.0) lui permet d’accompagner de nombreux clients dans leur démarche d’accessibilité numérique, quelles que soient leurs problématiques. Co-rédactrice du RGAA 3 (Référentiel général d’accessibilité pour les administrations), Audrey travaille sur des référentiels et méthodes de tests destinées à adresser les spécificités des logiciels et des applications mobiles. Elle a conçu et rédigé certaines ressources du RGAA 3, notamment un guide dédié aux troubles DYS et au handicap mental.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/aurelie_vache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/aurelie_vache/</guid>
+      <description>Aurélie est Cloud developer (&amp;amp; DevOps) chez Continental à Toulouse, en France. Elle travaille comme développeuse depuis plus de 14 ans. Ancienne développeuse Java / JEE, puis développeuse Web, Full-Stack et Lead, elle est maintenant Cloud developer et DevOps sur des projets de véhicules connectés et autonomes. En tant que l’une des leaders de Duchess France, une association qui promeut les femmes développeurs et les femmes travaillant dans l&amp;rsquo;informatique, elle est fortement impliquée dans leur initiative de coaching #AdoptADuchess, qui aide les développeurs débutants et en reconversion.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/caroline_mouden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/caroline_mouden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/cecile_freyd_foucault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/cecile_freyd_foucault/</guid>
+      <description>Tomber dans la soupe du design étant petite, je suis actuellement designer. Je parle avec autant de passion de typographie que de flow utilisateurs ! Issue du print et du branding, j’ai pris le choix de m’orienter vers le design d’interfaces à la fois en UI et en UX design, l&amp;rsquo;Agilité et le travail en équipe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/christophe_jollivet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/christophe_jollivet/</guid>
+      <description>Agitateur technique chez Apside, Christophe prêche les bonnes pratiques sur divers projets informatiques et universités en région tourangelle. Reconverti à l’informatique il y a 17 ans suite à un doctorat de neurobiologie, il contribue activement dans les communautés Java en ayant été co-responsable de la rubrique Java du site developpez.com mais aussi en participant à des conférences et en ayant fondé le Tours JUG en 2008 et co-fondé TouraineTech en 2017</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/david_morin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/david_morin/</guid>
+      <description>Je suis devops Big Data dans l&amp;rsquo;équipe Data Convergence chez OVH. Je travaille sur la mise en oeuvre d&amp;rsquo;architectures pour les produits OVH autour de la donnée (ingestion, analyse, stockage, traitement). J&amp;rsquo;ai découvert le Big Data avec Hadoop il y a 6 ans et je suis tombé sous le charme de son écosystème dynamique. Depuis lors, j&amp;rsquo;ai mis en oeuvre différents types de systèmes traitant de la donnée avec de nombreux challenges techniques qui en découlent.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/edouard_marquez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/edouard_marquez/</guid>
+      <description>Edouard est un développeur Android qui ne voyait que par les applications natives. Mais un jour il a découvert qu&amp;rsquo;il était possible d&amp;rsquo;obtenir des applications multiplateforme avec un niveau de performances similaire&amp;hellip;
+Depuis il ne cesse de crier son amour pour Flutter, en ayant notamment cofondé le meetup Flutter à Paris.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/elaine_dias_batista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/elaine_dias_batista/</guid>
+      <description>Elaine has been working with mobile apps development for the past 6 years. Since the launch of the Google Assistant, she has been following the developments around that area. She truly believes that interacting with technology using natural language will define the future of computing. Born and raised in Brazil, she&amp;rsquo;s been living in France since 2004 and loves everything multicultural. She&amp;rsquo;s a GDE for the Google Assistant.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/eric_briand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/eric_briand/</guid>
+      <description>Développeur touche à tout depuis plus de 10 ans, il travaille actuellement à Zenika Nantes. Ses sujets du moment sont le Cloud et kubernetes. Il est formateur Docker, kubernetes et co-organisateur du CNCF Meetup Nantes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/erwann_thebault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/erwann_thebault/</guid>
+      <description>Erwann Thebault est consultant à Zenika Rennes. Il participe à la conception et réalisation de projets backend autour de Java, Spring Boot, ELK,&amp;hellip; .
+Geek, il s&amp;rsquo;est interessé a l&amp;rsquo;évolutions des object connectés, puis à l&amp;rsquo;emergence de l&amp;rsquo;IOT : le web, ce n&amp;rsquo;est plus seulement un navigateur.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/francois_bouteruche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/francois_bouteruche/</guid>
+      <description>I&amp;rsquo;m currently Partner Solution Architect at Amazon Web Services. I am a tech enthusiast with a strong background around .NET development and DevOps philosophy and practices.
+I have a PhD in Computer Science. I worked several years around handwriting recognition and pen-based interfaces so I&amp;rsquo;m very familiar with all the real stuff behind the buzz words AI and Machine Learning :) I led the R&amp;amp;D team at Evodia, the ancestor of Script and Go After the fall of Evodia during the 2008-2010 financial crisis, I joined Orange Applications for Business, a subsidiary of Orange, where I focused on Application Lifecycle Management, Agile methodologies and then DevOps practices.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/francois_gelineau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/francois_gelineau/</guid>
+      <description>Developer, trainer, coach and community manager - Orange Labs Rennes
+francois.gelineau@orange.com</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/francois_teychene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/francois_teychene/</guid>
+      <description>Cloud Developer @ Elastic, meetup addict &amp;amp; organizer @ Montpellier, SunnyTech team.
+Développeur couteau suisse pouvant intervenir du Javascript à la table de routage. Mes passions actuelles sont le Rust, le DevOps et le Scala en plus de vouloir mettre des conteneurs partout.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/gerard_paligot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/gerard_paligot/</guid>
+      <description>Father and husband, Technical Architect at Decathlon, co-organisator Lille Android User Group, Kotlin Lover ♡</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/gerome_grignon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/gerome_grignon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/guillaume_laforge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/guillaume_laforge/</guid>
+      <description>During the day, Guillaume Laforge is Developer Advocate for Google Cloud Platform, covering a wide range of topics from serverless approaches, to chatbots or machine learning. At night, Guillaume wears his Apache Groovy hat, or you can hear him make jokes on the French podcast Les Cast Codeurs !</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jade_chabaro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jade_chabaro/</guid>
+      <description>With an Android and iOS developer background, I am now accompanying our clients as a Product Owner. I love talking about user experience on the mobile platforms. Currently working on mobile apps, IoT project and voice interactive bots.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jean_bisutti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jean_bisutti/</guid>
+      <description>Jean est consultant pour la société Zenika. Il développe principalement en Java et intervient sur des problématiques de performance. Adepte des pratiques de développement issues de la mouvance Software Craftsmanship (TDD, pair programming, BDD, clean code, &amp;hellip;), il apprécie en faire la promotion. Jean développe aussi QuickPerf, une libraire de test Java pour évaluer rapidement des propriétés de performance.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jean_michael_legait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jean_michael_legait/</guid>
+      <description>Passionné par mon métier de développeur Front-End, je travaille actuellement chez CrossKnowledge.
+Fan de JavaScript et de CSS3, j&amp;rsquo;adore tester les dernières nouveautés d&amp;rsquo;ECMAScript et CSS 😍
+Organisateur de la conférence Riviera DEV et du meetup JSSophia sur Sophia-Antipolis, j&amp;rsquo;adore échanger autour des nouvelles technologies.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jeremy_hennart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jeremy_hennart/</guid>
+      <description>Program Manager, Scrum Master, Facilitateur, ou encore chef de projet. J&amp;rsquo;accompagne des équipes techniques dans mon quotidien. Je m&amp;rsquo;applique à l&amp;rsquo;orchestration des projets avec l&amp;rsquo;idéologie Agile. Les challenges, l&amp;rsquo;effort et l&amp;rsquo;esprit d&amp;rsquo;équipe m&amp;rsquo;accompagnent dans mon quotidien. #Scrum, #ScrumMaster #Kaizen, #Kanban #Agile #BonSensPaysan! #Kintsugi</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jeremy_voisin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jeremy_voisin/</guid>
+      <description>Tech lead chez Apside, Jérémy est un explorateur des technologies modernes et passées qui apporte ses découvertes dans le cadre de formations ou d&amp;rsquo;interventions d&amp;rsquo;expertises. Issu d&amp;rsquo;un parcours universitaire en intelligence artificielle, il mène des travaux en Reinforcement Learning et ses domaines d&amp;rsquo;expertises, outre l&amp;rsquo;IA, sont le développement mobile et la réalité virtuelle et la réalité augmentée.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jordane_grenat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jordane_grenat/</guid>
+      <description>Jordane est développeur chez Viseo et adore les découvertes et ce qui sort de l&amp;rsquo;ordinaire. Ce qui est souvent incompatible avec le pragmatisme technologique nécessaire sur les projets clients.
+Il assouvit alors sa passion à coup de projets perso jamais finis et en écumant les conférences en compagnie des autres développeurs férus de nouveautés. En vrac : Elm, F#, nouveau-framework-à-la-mode-JS, &amp;hellip;
+Il passe le reste de son temps libre à refuser les cookies sur les sites web qu&amp;rsquo;il consulte.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/juliane_blier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/juliane_blier/</guid>
+      <description>Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. Cela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019, et une présentée seule au DevFest Toulouse 2019. Et je m&amp;rsquo;épanouis totalement dans cette nouvelle activité !</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/julien_lengrand_lambert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/julien_lengrand_lambert/</guid>
+      <description>Lead developer @ing. I create &amp;lsquo;islands&amp;rsquo; where engineers are the heroes. I love building communities that make people and products shine
+More here : https://lengrand.fr/about/</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/julien_salvi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/julien_salvi/</guid>
+      <description>Into the Android development since Froyo when Fragment was just a myth, former Android engineer at CINEMUR, I am currently working at InnovOrder as Senior Android Engineer where we are bringing restaurants to the next level. Besides that, I am a world traveler and a beer lover always looking for the best IPAs!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/kevin_davin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/kevin_davin/</guid>
+      <description>Google Developer Expert on Google Cloud, Gitlab Hero, I am above all passionate about tech, languages, infrastructure, and automation. Java, Kotlin, TypeScript are my day-to-day languages. I deploy all of those on the Google Kubernetes Engine with the GitLab&amp;rsquo;s Continuous Integration 🚀.
+Addict of agility and DevOps, some of my missions were to help teams to follow those philosophies. From code quality analysis to unit or end-to-end tests setup all the way to continuous deployment and operation, I try to follow a project from birth to production.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/ludovic_champenois/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/ludovic_champenois/</guid>
+      <description>Google App Engine Java Tech Lead, depuis 2011.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/marie_guillaumet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/marie_guillaumet/</guid>
+      <description>Web designer et intégratrice web senior, Marie Guillaumet est consultante en accessibilité numérique chez Access42. Elle vit et travaille à Rennes, en full remote. Elle a écrit de nombreux articles sur le web design et l’intégration, et partage régulièrement ses découvertes sur Twitter ou lors de conférences. Diplômée de Sciences Po Grenoble et du CELSA, Marie s’intéresse tout particulièrement à la dimension anthropologique et symbolique du web. Sa spécialisation en accessibilité numérique lui permet de concilier design, technique et implication sociale.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/marie_viley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/marie_viley/</guid>
+      <description>Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. Ce qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. Fan des conférences TED et #TRU je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech. J’aime également le métal, la bière et Dikkenek ^^</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/maxime_lumeau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/maxime_lumeau/</guid>
+      <description>FRENCH Je développe professionnellement des applications mobiles Android et iOS depuis 2015.
+Je donne aussi des conférences en université et meetups autour des sujets mobiles.
+En tant que speaker: - Université de Toulouse Jean Jaurès - 2016, 2017 - Conférence &amp;ldquo;Développement industrialisé d&amp;rsquo;applications mobiles&amp;rdquo; (3h) - Meetup GDG Android Nantes - Novembre 2018 - &amp;ldquo;Android Navigation Component&amp;rdquo; (40mn) - Meetup GDG Android Nantes - Mai 2019 - &amp;ldquo;Natif, cross-platform, ou les deux ?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/maxime_odye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/maxime_odye/</guid>
+      <description>Maxime, consultant back-end et membre de la direction technique chez Zenika Rennes.
+Passionné techniquement, j&amp;rsquo;aime découvrir et re-découvrir les différentes technologies gravitant autour de l&amp;rsquo;écosystème Java. Amateur des différentes communautés (Jug, BreizhCamp, AgileTour), j&amp;rsquo;estime que le partage technique, et non technique, dans le secteur de l&amp;rsquo;IT est quelque chose d&amp;rsquo;extraordinaire.
+Découverte, progression et approfondissement, l&amp;rsquo;enrichissement personnel est grand et essentiel pour nous faire tous progresser. Je suis formateur Elasticsearch et Elastic Stack, certified Spring Core by Pivotal et organisateur de l&amp;rsquo;Agile Tour Rennes</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/monsieur_badia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/monsieur_badia/</guid>
+      <description>Je m&amp;rsquo;appelle William, je suis Front-End Developer chez Sfeir (Paris), passionné par la cryptologie, Sliders et l&amp;rsquo;univers de la 3D.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/nicolas_comet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/nicolas_comet/</guid>
+      <description>Développeur passionné, Speaker, grand curieux, j&amp;rsquo;aime apprendre en permanence. Je ne m&amp;rsquo;attache pas à une technologie en particulier, même si je gravite en ce moment plus souvent du côté de Kotlin. J&amp;rsquo;aime les principes fondateurs du TDD. Je porte également un grand intérêt pour la synergie entre DDD et documentation vivante ou &amp;ldquo;Living Documentation&amp;rdquo;.
+Je suis actuellement Tech Lead Cloud chez Lectra, numéro un mondial des solutions dédiées à l&amp;rsquo;industrie textile (logiciels &amp;amp; machines).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/nicolas_tisserand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/nicolas_tisserand/</guid>
+      <description>Je travaille pour et dans le groupe Crédit Mutuel Arkéa depuis l&amp;rsquo;an 2000. Initialement développeur n-tiers, certifié Java, j&amp;rsquo;ai pris progressivement la responsabilité d&amp;rsquo;architectures toujours plus complexes. Depuis maintenant 3 ans, j&amp;rsquo;évolue sur le vaste périmètre de l&amp;rsquo;API Management en adressant toutes les composantes de ce métier : conception, sécurisation, test, intégration continue, monitoring, exploitation d&amp;rsquo;une gateway d&amp;rsquo;API, formation des utilisateurs, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/olivier_leplus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/olivier_leplus/</guid>
+      <description>Developer Relation Manager at Microsoft and Google Developer Expert in Web Technologies. I love to share knowledge (and love) among developers and people in general.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/pascal_cotret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/pascal_cotret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/pascal_gillet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/pascal_gillet/</guid>
+      <description>Apprenti perpétuel à la poursuite de nouvelles connaissances digitales (c&amp;rsquo;est souvent fatiguant).
+Développeur Java / JEE pendant de nombreuses années, j&amp;rsquo;ai cédé à la mode du Big Data en 2014, et j&amp;rsquo;interviens maintenant sur des sujets Cloud: j&amp;rsquo;aide les entreprises à migrer leurs applications vers l&amp;rsquo;un ou l&amp;rsquo;autre fournisseur et à ne plus se soucier de leur infrastructure.
+J&amp;rsquo;ai rejoint les rangs de Stack Labs en 2018, une petite structure toulousaine composée exclusivement de passionnés.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/philippe_antoine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/philippe_antoine/</guid>
+      <description>Developer Relations chez Google France Passionné par les technos web et cloud, vous le croiserez sûrement dans un devfest près de chez vous</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/pierre_tibulle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/pierre_tibulle/</guid>
+      <description>&amp;ldquo;Dev mobile (Android/iOS/Hybride), je gribouille des sketchnotes colorées et avec le temps qu&amp;rsquo;il me reste je participe à l&amp;rsquo;organisation du meetup Android Nantes (GDG)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/pierre_yves_aillet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/pierre_yves_aillet/</guid>
+      <description>Passionné d&amp;rsquo;informatique, Pierre-Yves travaille depuis 15 ans sur des technologies variées allant de PHP à Java en passant par Javascript. Son IHM de prédilection est la ligne de commande. Il est consultant chez Zenika Nantes et intervient sur des missions d’audit, d’expertise technique ou d’appui pour la mise en place d’outillages de développement.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/robin_caroff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/robin_caroff/</guid>
+      <description> Technical Lead at Resonantes (http://association.resonantes.fr/).
+Former Co-Founder and Director of the mobile application agency Toki (www.toki.agency).
+Mobile developer since 2011, I am also Co-Founder and Organizer of the GDG Nantes Android (https://www.meetup.com/fr-FR/gdg_nantes_android/).
+Technology enthusiast, highly convinced that technology and mobile devices can improve productivity for small as well as for big companies.
+Links  Twitter Profile Linkedin Profile Talks (Speaker Deck)  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/romuald_priol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/romuald_priol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/rudy_baer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/rudy_baer/</guid>
+      <description>CTO (et CEO) depuis 4 ans chez BearStudio. Mon travail au quotidien consiste a résoudre les problèmes techniques ET humains posés par le développement logiciel. Développeur Java de formation, après quelques années en SSII et en startup, j&amp;rsquo;ai finalement décidé de monter ma boite. Je suis également un des organisateurs des meetups (ancien JUG) et de Codeurs En Seine à Rouen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/sebastien_besnier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/sebastien_besnier/</guid>
+      <description>Prof&amp;rsquo; d&amp;rsquo;info et de math en &amp;ldquo;classe prépa&amp;rdquo;, Sébastien est un mordu de programmation : web, cryptographie, compilateurs, calcul formel et approché, tout l&amp;rsquo;intéresse ! Ayant commencé avec &amp;ldquo;C++ pour les nuls&amp;rdquo; (true story!), puis passé quelques années avec Python, il a découvert la programmation fonctionnelle et ne jure maintenant plus que par Haskell et Elm (de &amp;ldquo;purs&amp;rdquo; langages :) ).
+Quand il ne code pas, Sébastien essaie de pincer les 6 cordes de son instrument ou mater le roi adverse avec la dame et un pion.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/sebastien_jardin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/sebastien_jardin/</guid>
+      <description>Ingénieur systèmes SRE - DevOps
+OVH Dates d’emploi févr. 2019 – Aujourd’hui Durée d’emploi 10 mois Lieu Région de Bordeaux, France
+ITS GROUP S.A. Ingénieur Systèmes DevOps chez CDiscount Dates d’emploi sept. 2017 – févr. 2019 Durée d’emploi 1 an 6 mois Lieu Région de Bordeaux, France
+OXAND DevOps Dates d’emploi juin 2015 – sept. 2017 Durée d’emploi 2 ans 4 mois Lieu Avon (France)
+Crédit Agricole Consumer Finance Ingénieur Système Dates d’emploi oct.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/sebastien_oddo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/sebastien_oddo/</guid>
+      <description>Full-stack developer, specialized in front-end</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/thibaud_courtoison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/thibaud_courtoison/</guid>
+      <description>Thibaud est consultant, formateur et enseignant chez Zenika Nantes et il ne peut pas résister à un challenge de programmation quand il en voit un. Il passe beaucoup trop de temps sur Twitter et bidouiller des bouts de code. Mais surtout, c’est un amoureux des one-liners Javascript.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/tugdual_grall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/tugdual_grall/</guid>
+      <description>Tugdual Grall, est Technical Account Manager chez Redis Lavs ou il accompagne les clients dans le déploiement de Redis, et participate a l&amp;rsquo;adoption de Redis et du NoSQL dans les communautés de développeurs.
+Avant de travailler chez Redis Labs, &amp;ldquo;Tug&amp;rdquo;, était Directeur du Product Management chez Red Hat, Technical Evangelist chez MapR, MongoDB et Couchbase. Tug a également travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform JavaEE d&amp;rsquo;Oracle.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/vincent_vimard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/vincent_vimard/</guid>
+      <description>Commercial chez Zenika, développeur de formation, passionné de sciences et de technologies, d’innovation au sens large mais également de stratégie d’entreprise.
+J’aime découvrir l’envers du décors, le pourquoi et le comment.
+Je suis aussi épicurien de nature et sportif à mes heures perdues …</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/vivien_maleze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/vivien_maleze/</guid>
+      <description>Currenlty an architect in a french e-shopping company. I work on a daily basis around microservices and how to work with them.
+I&amp;rsquo;m really attached to new technology and work hard to be up to date on tech news. I happily share what I can whenever I get the chance. What I love the most is learning new things
+Speaker at Devoxx France 2018 =&amp;gt; &amp;ldquo;De la musique collaborative avec Kafka&amp;rdquo; / https://youtu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/wassim_chegham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/wassim_chegham/</guid>
+      <description>Wassim is a Senior Developer Advocate at Microsoft and contributor on the Angular and Bazel projects. He is the author of many open-source projects such as http://xlayers.dev and http://ngx.tools. He is also a GDE for the Angular team, the Google Assistant teams at Google. He is a member of the Node.js Foundation. A former member of the Angular Universal core team. He is currently learning about music composition and drawing. You can reach out to him on Twitter @manekinekko and http://wassim.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</guid>
+      <description>Je suis Senior Software Engineer au sein de l&amp;rsquo;équipe Data Convergence chez OVH. Je travaille sur la conception et le développement de produits autour de l&amp;rsquo;ingestion de données, de data lakes et des plateformes d&amp;rsquo;analytics. Spécialisé sur la partie backend, je suis plutôt passionné par la conception d&amp;rsquo;API reponsives, la modularité et la performance. J&amp;rsquo;essaie également de partager ces passions avec des étudiants en tant qu&amp;rsquo;intervenant à l&amp;rsquo;Université de Bretagne Occidentale où je donne quelques cours.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/youri_bonnaffe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/youri_bonnaffe/</guid>
+      <description>Développeur passionné je travaille chez Instant System, un éditeur dans la mobilité urbaine, un domaine dans lequel je m&amp;rsquo;éclate et qui bouge ! 🤪
+Habitué de la ligne de commande j&amp;rsquo;aime bien automatiser les choses alors forcément les tests, l&amp;rsquo;intégration continue, l&amp;rsquo;administration système sont des sujets qui m&amp;rsquo;intéressent.
+Et parce qu&amp;rsquo;il faut un esprit sain dans un corps sain, je cours (un peu, beaucoup, passionnément) au milieu des beaux paysages de la Côte d&amp;rsquo;Azur.</description>
+    </item>
+    
+  </channel>
+</rss>

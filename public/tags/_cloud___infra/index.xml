@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_cloud___infra on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/tags/_cloud___infra/</link>
+    <description>Recent content in _cloud___infra on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/tags/_cloud___infra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apprenez à sécuriser votre cluster kubernetes par la pratique</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique/</guid>
+      <description>Habituellement, lors d’un challenge de sécurité type CTF ( https://ctf101.org/ ) l’objectif est de trouver la faille. Nous vous proposons de faire l’inverse : sécurisez un cluster kubernetes pour faire face à des mauvaises pratiques et failles courantes.
+Lors de cet atelier, vous aurez à disposition un cluster kubernetes soumis à différentes attaques. Vous serez alors accompagnés pour mettre en place les bonnes contre-mesures et sécuriser votre cluster.
+Prérequis : avoir son ordinateur, être à l’aise avec le shell et connaître les concepts de kubernetes et des conteneurs</description>
+    </item>
+    
+    <item>
+      <title>Comment ça se passe pour mettre en ligne une app quand on commence avec le cloud ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud/</guid>
+      <description>Tous les cloud provider promettent la même chose :
+&amp;ldquo;t’inquiètes ma caille, ton app elle va jamais tomber et tu pourras scale autant que tu veux !&amp;rdquo;
+Ok c&amp;rsquo;est cool mais avant d&amp;rsquo;en arriver là il faut que je réussisse à la mettre en ligne ma f*ck*ng app ?
+Et puis je ne suis pas expert cloud moi, je veux juste mettre en ligne mon app&amp;hellip;.
+En plus Gérard veut que ce soit fait pour hier !</description>
+    </item>
+    
+    <item>
+      <title>Docker, Kubernetes &amp; Istio - Tips, tricks &amp; tools</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</guid>
+      <description>Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l&amp;rsquo;utilisation quotidienne peut être assez tricky. - Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ? - Avez-vous des difficultés avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ? - Quand tout va mal, comment déboguez-vous un conteneur ? Et plusieurs pods ?</description>
+    </item>
+    
+    <item>
+      <title>Hey Google, send 20€ to Mum! - Live coding, OpenBanking, Voice Assistants and its ethics</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</guid>
+      <description>Not sure if I should write in English or French here. Website is in english so I&amp;rsquo;ll go for that but I can do all in French as well :). I studied in Brest so I&amp;rsquo;d be happy to do a demo there again!
+I think this talk definitely matches the event for several reasons: * Voice assistants are coming, and they will be part of our future! Kids are already used to using them daily.</description>
+    </item>
+    
+    <item>
+      <title>Implémenter un Webhook, pas si simple !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/implementer_un_webhook__pas_si_simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/implementer_un_webhook__pas_si_simple/</guid>
+      <description>Les Webhooks, vous connaissez ? Vous en avez sans doute déjà utilisé, par exemple pour être notifié d’un commit sur Github, pour réagir à l’arrivée d’un SMS avec Twilio, ou pour que votre chatbot Dialogflow réponde à ses interlocuteurs.
+Côté consommateur de Webhook, cela semble plutôt facile à développer… Côté serveur, c’est “juste” une API à implémenter, non ? Hmm… En fait, nous allons voir que ce n’est peut-être pas si simple que cela !</description>
+    </item>
+    
+    <item>
+      <title>Une décennie d&#39;exploitation de vos applications dans le Cloud avec des conteneurs sécurisés ... Evolution d&#39;un PAAS vu de l&#39;intérieur.</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</guid>
+      <description>Il a fallu 4 ans à Google App Engine pour passer de Java 7 à Java 8 &amp;hellip; Juste pour une mise à niveau simple de JVM?. Simple &amp;hellip; ou peut-être pas? Google App Engine est connu pour être un PAAS fonctionnant sur le système Borg de Google, le gestionnaire de cluster interne qui exécute des millions de jobs pour des millions d&amp;rsquo;applications &amp;hellip; Les origines de Kubernetes Open Source proviennent des concepts Borg.</description>
+    </item>
+    
+  </channel>
+</rss>

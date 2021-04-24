@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_method___tools on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/tags/_method___tools/</link>
+    <description>Recent content in _method___tools on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/tags/_method___tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are you interesting to manage your passwords like your code ? Come and discover how !</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how/</guid>
+      <description>La gestion de mot de passe est une partie bien-souvent douloureuse, voir fastidieuse.
+Qui a raison? L’informations qui est en prod ou bien celle du Keepass, ou encore celle que l’on croit avoir configuré ?
+Le développement en collaboration est désormais beaucoup plus aisé depuis des outils comme SVN et désormais l’incontournable GIT, projet initié par Linus Torvald !
+Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
+    </item>
+    
+    <item>
+      <title>Compiler-Driven-Onboarding - open source in elm</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/compiler_driven_onboarding___open_source_in_elm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/compiler_driven_onboarding___open_source_in_elm/</guid>
+      <description>De la première &amp;ldquo;good first issue&amp;rdquo; résolue jusqu&amp;rsquo;à une PR conséquente, je raconterai comment j&amp;rsquo;ai intégré le projet open source elm-in-elm (https://github.com/elm-in-elm/compiler).
+En suivant pas à pas mon expérience, nous verrons comment : * simplifier des tests ; * ajouter de nouvelles de fonctionnalités sans se perdre dans le code ; * éviter un bug sournois avant même de compiler ; * détecter un bug alors que &amp;ldquo;tout semble marcher&amp;rdquo; ; * modifier le code pour que les nouveaux contributeurs ne tombent pas dans le même piège que moi ; * aider les nouveaux contributeurs à participer au projet.</description>
+    </item>
+    
+    <item>
+      <title>Eliminez rapidement des bottlenecks de performance avec QuickPerf</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</guid>
+      <description>Supposons que vous développiez une application en Java : comment détecter rapidement la présence d&amp;rsquo;importants goulots d&amp;rsquo;étranglement de performance (bottlenecks) ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Comment se rendre compte rapidement que votre application va consommer énormément de mémoire ? Nous allons montrer comment la librairie de test QuickPerf peut vous aider à répondre à ces questions.</description>
+    </item>
+    
+    <item>
+      <title>Functional programming - l&#39;architecture du choix</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/functional_programming___l_architecture_du_choix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/functional_programming___l_architecture_du_choix/</guid>
+      <description>&amp;ldquo;La programmation fonctionnelle, c&amp;rsquo;est trop compliqué !&amp;rdquo;
+Cette phrase, je l’ai entendue je ne sais combien de fois. Mais pourquoi autant de réticence ?
+Depuis quelques années émerge de nombreux talks d’introduction à la programmation fonctionnelle mais la réalité reste qu’il s’agit d’une pratique marginale sur l’ensemble des développements.
+Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
+ Le temps d’apprentissage Le jargon qui fait peur Les concepts mathématiques &amp;hellip;  Et si le problème n’était pas dans la manière dont on explique la programmation fonctionnelle mais plutôt comment cette pratique est introduite dans le quotidien d&amp;rsquo;une équipe ?</description>
+    </item>
+    
+    <item>
+      <title>GraalVM- la VM polyglotte</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/graalvm__la_vm_polyglotte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/graalvm__la_vm_polyglotte/</guid>
+      <description>“Cette librairie n&amp;rsquo;est pas disponible dans mon langage de programmation. Je dois la réécrire.&amp;ldquo;
+&amp;ldquo;Ce langage conviendrait parfaitement à mon problème, mais nous ne pouvons pas l&amp;rsquo;exécuter dans notre environnement.&amp;ldquo;
+&amp;ldquo;Ce problème est déjà résolu dans tel ou tel langage, mais ce langage est trop lent.&amp;ldquo;
+Oyez , oyez Développeurs! Plus d’inquiétude, GraalVM arrive à la rescousse!</description>
+    </item>
+    
+    <item>
+      <title>Les risques de la revue de code</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/les_risques_de_la_revue_de_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/les_risques_de_la_revue_de_code/</guid>
+      <description>Je suis un développeur qui n&amp;rsquo;aime pas la revue de code, et je vais vous expliquer tout le mal que j&amp;rsquo;en pense.
+Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise foi. C&amp;rsquo;est une démonstration par l&amp;rsquo;absurde des intérêts de la revue de code. En mettant les rieurs de mon côté, je vais les convaincre qu&amp;rsquo;ils peuvent ainsi améliorer les pratiques de développement et la collaboration au sein de leurs équipes.</description>
+    </item>
+    
+    <item>
+      <title>Monitorer ses APIs à partir de zéro, viser l&#39;au-delà, et la dimension business</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</guid>
+      <description>Initialement abordé sous un angle technique, le monitoring d&amp;rsquo;API gagne à évoluer en maturité pour devenir pourvoyeur d&amp;rsquo;informations à caractère stratégique. Dans un contexte de déploiement d&amp;rsquo;APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs. Sans avoir la prétention d&amp;rsquo;être exhaustif sur les techniques à mettre en œuvre, nous montrerons que le choix des métriques est crucial, tout autant que l&amp;rsquo;exploitation qui est en faite. Ainsi, la collecte de métriques ne sera plus uniquement un enjeu IT, mais également business dans une démarche d&amp;rsquo;amélioration de l&amp;rsquo;expérience client.</description>
+    </item>
+    
+    <item>
+      <title>Retour vers le java.util.concurrent.Future...</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/retour_vers_le_java_util_concurrent_future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/retour_vers_le_java_util_concurrent_future/</guid>
+      <description>La programmation réactive, tout le monde en parle, l’avez vous vraiment cernée ?
+Nous développerons une application traitant des events.
+Vous avez envie de la développer de manière réactive. Nom de zeus ! Nous sommes revenus à l’époque de l’impératif. Pour éviter les paradoxes spatio-temporels nous devrons voyager à travers les époques.
+Impératif, callback hell, bloquant, c’est pas le pied&amp;hellip;
+Sous le capot, vous appréhenderez les avantages et inconvénients des différents paradigmes.</description>
+    </item>
+    
+    <item>
+      <title>Trucs et astuces pour consommer une API REST</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</guid>
+      <description>Consommer une API REST fait désormais partie de notre quotidien de développeur. Que ce soit pour appeler un composant de notre belle architecture micro-services, un service externe hébergé par un tiers, réaliser un appel HTTP est plus que courant dans nos applications. Nous avons à disposition pléthore de ressources pour bien concevoir son API REST mais comment faisons-nous pour en consommer une de manière efficace ?
+ Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
+    </item>
+    
+    <item>
+      <title>Vous livrez encore des bugs en prod ?! 😱</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</guid>
+      <description>Le stagiaire a encore frappé ! C&amp;rsquo;était pourtant simple de passer le montant de la transaction en premier argument et le timestamp en second, non ? Et du coup, vous avez un problème à 1530795303€&amp;hellip;
+Mais&amp;hellip; est-ce vraiment sa faute ? Est-ce qu&amp;rsquo;on n&amp;rsquo;aurait pas dû empêcher que cette erreur puisse même se produire ?
+Je vous affirme au contraire qu&amp;rsquo;il est de notre devoir de viser le zéro bugs !</description>
+    </item>
+    
+  </channel>
+</rss>

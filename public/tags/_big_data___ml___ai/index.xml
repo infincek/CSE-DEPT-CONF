@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_big_data___ml___ai on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/tags/_big_data___ml___ai/</link>
+    <description>Recent content in _big_data___ml___ai on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/tags/_big_data___ml___ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Change Data Capture in production</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</guid>
+      <description>OVH, 18 ans d’existence, est aujourd’hui le 1er cloud provider européen. Pour suivre et piloter son business, OVH a mis en place un datalake interne. L’idée étant de centraliser l’ensemble des données issues de plusieurs milliers de tables localisées dans ses différents datacentres pour ensuite générer les KPIs utiles au business. Le point essentiel est que ces données doivent être mises à jour continuellement. Cette présentation décrit le pipeline actuellement en production et les différentes itérations.</description>
+    </item>
+    
+    <item>
+      <title>ElasticSearch, la colonne vertébrale de mon projet data</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</guid>
+      <description>La mise en place d’un projet de management de données passe souvent par cette question cruciale : Comment stocker mes données ?
+Mais que se passe-t-il lorsque je veux pouvoir interagir avec toutes ces données ? Nous avons pris le parti d&amp;rsquo;utiliser à fond ElasticSearch pour tout ce qui touche de près ou de loin à l’utilisation de nos données.
+Qu&amp;rsquo;il s&amp;rsquo;agisse de la récupération d&amp;rsquo;une simple entité, de la pagination d&amp;rsquo;une liste de milliers d&amp;rsquo;éléments, ou d&amp;rsquo;une recherche libre par l&amp;rsquo;utilisateur au travers de toutes les entités, nos applications exploitent les API d&amp;rsquo;Elasticsearch.</description>
+    </item>
+    
+    <item>
+      <title>Redis du Clé/Valeur au Multi-Modèle</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</guid>
+      <description>Vous connaissez surement Redis l&amp;rsquo;une des bases de données NoSQL les plus populaires chez les développeurs.
+Vous l&amp;rsquo;utilisez peut être déjà, mais surement de façon simple: un cache clé/valeur.
+Cette présentation qui s&amp;rsquo;appuie sur de nombreuses démonstrations va vous permettre de découvrir la puissance de Redis et son système d&amp;rsquo;extensions (les Modules Redis). Redis vous permet maintenant de gérer plusieurs modèles de données: Clé/Valeur, Document/JSON, Time Series, Streaming Log, Search&amp;hellip; pour résumé une base de donnée polyglotte, comme vos applications!</description>
+    </item>
+    
+  </channel>
+</rss>
