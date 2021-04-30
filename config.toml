@@ -49,20 +49,7 @@ googleAnalytics = "UA-37717223-9"
     weight = 1
     languageName = "gb"
 
-[languages.fr]
-    weight = 2
-    languageName = "fr"
 
-[languages.fr.params]
-    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles."
-
-[languages.fr.params.partnerCategories]
-        platinium = "Kouign Amann"
-        gold = "Far"
-        silver = "Crêpe"
-        startup = "Palet"
-        soutien = "Partenaires"
-        communautes = "Communautés"
 
 [taxonomies]
   tag = "tags"

@@ -1,5 +1,5 @@
 ---
-title: Sessions
+title: Call of paper
 menu:
   main:
     weight: 30

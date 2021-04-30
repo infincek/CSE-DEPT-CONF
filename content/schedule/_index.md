@@ -7,7 +7,8 @@ menu:
 horizontal: false
 
 ---
-
+ <!-- 
+ -->
 {{% hero %}}
 
 <a class="btn primary btn-lg" href="/schedule/schedule.ics">
