@@ -52,6 +52,13 @@ of paper will be communicated to authors by email.
 * Paper Acceptance Notification – 20th June 2021
 * Camera ready submission and Registration deadline- 25th June 2021
 * Dates for conference- 15th & 16th July 202
+* Power electronics 
+* Power systems
+* Other related areas
 
+### Important Dates: Paper Submission - 15th June 2021
+### Paper Acceptance Notification – 20th June 2021
+### Camera ready submission and Registration deadline- 25th June 2021
+### Dates for conference- 15th & 16th July 202
 {{% /hero %}}
 
