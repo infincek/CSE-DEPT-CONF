@@ -6,13 +6,7 @@ feature: true
 company: Prof
 city: NIT, Surathkal
 photoURL: https://i.imgur.com/8XAW9Y3.png
-socials:
-  - icon: twitter
-    link: https://twitter.com/audreyblabla
-    name: audreyblabla
-  - icon: github
-    link: https://github.com/audreymaniez
-    name: audreymaniez
+
 ---
 Prof. (Dr.) Chandrasekaran K is a Professor in Computer Science & Engineering department at 
 the National Institute of Technology,Karnataka,Surathkal. He has more than 33 years of 

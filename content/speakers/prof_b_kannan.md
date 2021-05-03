@@ -4,15 +4,9 @@ name: Prof. (Dr) B Kannan
 id: lKpZ3RoHJATLjiQyIcPV1xsJJ203
 feature: true
 company: Prof
-city: Carcassonne, France
+city: CUSAT, Cochin
 photoURL: https://i.imgur.com/8XAW9Y3
-socials:
-  - icon: twitter
-    link: https://twitter.com/audreyblabla
-    name: audreyblabla
-  - icon: github
-    link: https://github.com/audreymaniez
-    name: audreymaniez
+
 ---
 Prof. (Dr.) B Kannan is a Professor of Department of Computer Applications, Cochin University of 
 Science & Technology ,Cochi. He got his PhD degree in Futures Studies with Specialization in 
