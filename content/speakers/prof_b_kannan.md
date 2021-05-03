@@ -5,7 +5,7 @@ id: lKpZ3RoHJATLjiQyIcPV1xsJJ203
 feature: true
 company: Prof
 city: CUSAT, Cochin
-photoURL: https://i.imgur.com/8XAW9Y3.jpg
+photoURL: https://i.imgur.com/TJqORVA.png
 
 ---
 Prof. (Dr.) B Kannan is a Professor of Department of Computer Applications, Cochin University of 
