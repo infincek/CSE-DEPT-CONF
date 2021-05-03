@@ -155,7 +155,7 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-location
-    image="/images/backgrounds/CSE-Department.jpg"
+    image="/images/backgrounds/cse-dept.jpeg"
     address="College of Engineering, KIDANGOOR SOUTH P.O"
     latitude="9.671076150813363"
     longitude="76.62033210928175" %}}
