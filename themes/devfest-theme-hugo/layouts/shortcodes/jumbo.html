@@ -7,10 +7,12 @@
 	<div id="jumbo-overlay"></div>
 	<div class="inner-wrapper">
 		{{ if $logo }}
-		<img class="jumbo-logo" src="{{ $logo }}" alt="logo {{ .Site.Title }}">
+		<h1>{{ .Site.Title }} </h1>
 		{{ end }}
 		<div class="inner">
-			<p class="subtitle has-text-centered"></p>{{ .Inner }}</p>
+			<div class="coverpage">
+				{{ .Inner }}
+			</div>
 		</div>
 	</div>
 	<div class="scroll-down" aria-hidden="true">

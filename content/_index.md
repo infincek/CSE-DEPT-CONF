@@ -14,9 +14,11 @@ menu:
 
 
 
-## 2nd National Conference on
-## Novel & Challenging Issues and Recent Innovations in Engineering and Information 
-## Sciences 2021(NCREIS ’21)
+ 2nd National Conference on
+ 
+ # Novel & Challenging Issues and Recent Innovations in Engineering and Information 
+ 
+ Sciences 2021(NCREIS ’21)
 
 <!-- 
 {{< button-link label="Get a ticket"
@@ -153,16 +155,15 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-location
-    image="/images/map.jpg"
-    address="20 Rue Duquesne, 29200 Brest, France"
-    latitude="48.3918316"
-    longitude="-4.4883138" %}}
+    image="/images/backgrounds/CSE-Department.jpg"
+    address="College of Engineering, KIDANGOOR SOUTH P.O"
+    latitude="9.671076150813363"
+    longitude="76.62033210928175" %}}
 
 ## The venue
 
-### Faculté de Lettres et Sciences Humaines
+### College of Engineering, KIDANGOOR
 
-The Faculté de Lettres et Sciences Humaines, at the very heart of Brest, hosts once again the DevFest du Bout du Monde
 
 {{% /home-location %}}
 

@@ -76,13 +76,7 @@ googleAnalytics = "UA-37717223-9"
     disable = false
     privacyEnhanced = false
 
-[menu]
-[[menu.main]]
-    identifier = "CFP"
-    name = "CFP"
-    url = "https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD"
-    weight = 200
-    external = true
+
 
 #...    
 
