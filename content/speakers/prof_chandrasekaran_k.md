@@ -1,7 +1,7 @@
 ---
 key: prof_chandrasekaran_k
 name: Prof. (Dr.) Chandrasekaran K
-id: lKpZ3RoHJATLjiQyIcPV1xsJJ203
+id: 1
 feature: true
 company: Prof
 city: NIT, Surathkal

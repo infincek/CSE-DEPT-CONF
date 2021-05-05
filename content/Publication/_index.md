@@ -10,16 +10,17 @@ draft: false
 ---
 
 {{% hero %}}
+All the peer reviewed and accepted papers will be published as special 
+issue in International Journal of Engineering Research & Technology 
+(IJERT) (ISSN: 2278-0181) which is Google Scholar and Research gate 
+indexed (https://www.ijert.org/)
 
-DevFest du bout du Monde is a Western of Brittany community-driven conference, and administratively supported by the [FinistDevs](https://finistdevs.org/) and [Code d'Armor](https://codedarmor.fr).
+## INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT)
 
-To make all this possible, an awesome team of volunteers is working behind the scenes.
+
 
 {{% /hero %}}
 
 <!-- ... -->
 
-{{< teams types="core=Core Team" >}}
-
-<!-- ... -->
 

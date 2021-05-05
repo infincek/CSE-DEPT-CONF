@@ -28,7 +28,7 @@ menu:
 {{% /jumbo %}}
 
 <!-- ... -->
-{{% home-info class="primary" title="organised by" %}}
+{{% home-info class="primary" title="Organised By" %}}
 
 # Department of Computer Science & Engineering
 # **(Accredited by NBA) (2019-2022)**
@@ -38,6 +38,7 @@ menu:
 # TEQIP-II
 # In Collaboration with IJERT
 {{% /home-info %}}
+
 
 {{% home-info  class="primary" title="ABOUT NCREIS ‘21" %}}
 

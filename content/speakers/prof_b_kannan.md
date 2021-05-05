@@ -1,7 +1,7 @@
 ---
 key: prof_b_kannan
 name: Prof. (Dr) B Kannan
-id: lKpZ3RoHJATLjiQyIcPV1xsJJ203
+id: 2
 feature: true
 company: Prof
 city: CUSAT, Cochin
