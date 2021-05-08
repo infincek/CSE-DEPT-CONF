@@ -1,5 +1,5 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<section class="speakers">
+<section class="speakers {{ .Get "class" }}">
 
 	<div class="inner">
 		{{ .Inner }}

@@ -1,20 +1,9 @@
-
-<div class="text-center {{ .Get "class" }}">
-    <img
-      src="{{ .Get "src" }}"
-      class="rounded mx-auto d-block"
-      alt="{{.Get "alt" | default "" }}"
-      width="{{.Get `width` | default "auto" }}">
-</div>
-
-<!--
 {{ $_hugo_config := `{ "version": 1 }` }}
+<section class="text-center logos {{ .Get "class" }}">
 
-<div class="text-center {{ .Get "class" }}">
+	<div class="inner text-center ">
+    <img class="img-fluid" src="{{ .Get "img" }}">
+		{{ .Inner }}
+	</div>
 
-  <img src="{{ .Get "src" }}"
-  class="rounded"
-  alt="{{ .Get "alt" | default "" }}">
-  {{ .Inner }}
-</div>
--->
+</section>

@@ -16,9 +16,10 @@ menu:
 
  2nd National Conference on
  
- # Novel & Challenging Issues and Recent Innovations in Engineering and Information 
+ ## Novel & Challenging Issues and Recent Innovations in Engineering and Information Sciences 2021
  
- Sciences 2021
+ 
+
  NCREIS ’21
 
 <!-- 
@@ -40,9 +41,18 @@ menu:
 # In Collaboration with IJERT
 {{% /home-info %}}
 
+{{% addlogo class="primary" img="/images/logos/cape.gif" %}}
 
-{{% addlogo class="secondary" src="/images/logos/cape.gif" %}}
 {{% /addlogo %}}
+
+
+{{% home-info class="primary" title="Important dates" %}}
+# Important Dates: Paper Submission - 15th June 2021
+# Paper Acceptance Notification – 20th June 2021
+# Camera ready submission and Registration deadline- 25th June 2021
+# Dates for conference- 15th & 16th July 202
+{{% /home-info %}}
+
 
 {{% home-info  class="primary" title="ABOUT NCREIS ‘21" %}}
 
