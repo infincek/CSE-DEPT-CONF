@@ -1,0 +1,20 @@
+
+<div class="text-center {{ .Get "class" }}">
+    <img
+      src="{{ .Get "src" }}"
+      class="rounded mx-auto d-block"
+      alt="{{.Get "alt" | default "" }}"
+      width="{{.Get `width` | default "auto" }}">
+</div>
+
+<!--
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<div class="text-center {{ .Get "class" }}">
+
+  <img src="{{ .Get "src" }}"
+  class="rounded"
+  alt="{{ .Get "alt" | default "" }}">
+  {{ .Inner }}
+</div>
+-->

@@ -1,13 +1,13 @@
 ---
-title: Call of paper
+title: Call for paper
 menu:
   main:
-    weight: 10
+    weight: 5
 
 draft: false    
 ---
 
-{{% hero title="Call of Paper" %}}
+{{% hero title="Call for Paper" %}}
 <!-- TODO: filter and search -->
 Academicians ,researchers, experts from industry and students worldwide are invited to submit 
 the results of their research for consideration to be presented at the conference. The authors 

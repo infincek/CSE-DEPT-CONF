@@ -18,7 +18,8 @@ menu:
  
  # Novel & Challenging Issues and Recent Innovations in Engineering and Information 
  
- Sciences 2021(NCREIS ’21)
+ Sciences 2021
+ NCREIS ’21
 
 <!-- 
 {{< button-link label="Get a ticket"
@@ -28,7 +29,7 @@ menu:
 {{% /jumbo %}}
 
 <!-- ... -->
-{{% home-info class="primary" title="Organised By" %}}
+{{% home-info class="primary" title="Organised By" src="/images/logos/cape.gif" %}}
 
 # Department of Computer Science & Engineering
 # **(Accredited by NBA) (2019-2022)**
@@ -39,6 +40,9 @@ menu:
 # In Collaboration with IJERT
 {{% /home-info %}}
 
+
+{{% addlogo class="secondary" src="/images/logos/cape.gif" %}}
+{{% /addlogo %}}
 
 {{% home-info  class="primary" title="ABOUT NCREIS ‘21" %}}
 

@@ -37,6 +37,7 @@ googleAnalytics = "UA-37717223-9"
     jumbo = "https://www.ce-kgr.org/images/logo.png"
     header = "https://www.ce-kgr.org/images/logo.png"
     footer = "https://www.ce-kgr.org/images/moblogo.png"
+    cape = ""
 
 [languages]
 [languages.en]
