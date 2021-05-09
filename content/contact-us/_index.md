@@ -6,6 +6,14 @@ menu:
 
 draft: false    
 ---
+---
+title: Contact Us
+menu:
+  main:
+    weight: 90
+
+draft: false
+---
 
 {{% hero %}}
 
@@ -14,10 +22,26 @@ draft: false
 
 ## Coordinators
 
-### Dr. K S Angel Viji Linda Sebastian
-### Associate. Professor Asst. Professor
-### Dept. of CSE Dept. of CSE
-### Mob:9633174462 Mob: 9497488335
-### Email: ksangelviji@gmail.com Email: linmaria.sebastian@gmail.com
+<div class="cordinators">
+<div class="cordinator-item">
 
+### Dr. K S Angel Viji
+
+Associate. Professor
+
+Dept. of CSE Dept. of CSE
+Mob:9633174462 Mob: 9497488335
+Email: ksangelviji@gmail.com
+</div>
+<div class="cordinator-item">
+
+### Linda Sebastian
+
+Asst. Professor
+
+Dept. of CSE Dept. of CSE
+Mob: 9497488335
+Email: linmaria.sebastian@gmail.com
+</div>
+</div>
 {{% /hero %}}

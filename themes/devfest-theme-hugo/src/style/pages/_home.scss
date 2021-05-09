@@ -1,5 +1,4 @@
 .home main {
-
   & > section {
     margin: 0;
     padding: 4rem;
@@ -11,7 +10,12 @@
       line-height: 1.875rem;
       font-weight: 300;
     }
+    &.primary h1:first-child {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
   }
+  
 
   .info {
     display: flex;
@@ -29,10 +33,11 @@
 
     .inner {
       flex: 1 1 auto;
-      
+
       display: flex;
       flex-direction: column;
       justify-content: center;
+      text-align: center;
 
       @include mq($until: xl) {
         max-width: 100%;
@@ -58,9 +63,9 @@
         font-weight: 100;
 
         &::after {
-          content: '';
+          content: "";
           display: block;
-          height: .125rem;
+          height: 0.125rem;
           width: 2rem;
           background-color: var(--primary);
         }
@@ -93,7 +98,7 @@
       }
 
       // Keep only 4 first speakers
-      li:nth-child(n+5) {
+      li:nth-child(n + 5) {
         display: none;
       }
     }
@@ -181,9 +186,38 @@
       }
     }
   }
+  .logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    @include mq($until: md) {
+      display: block;
+    }
+
+    .inner {
+      width: 22.3333%;
+
+      @include mq($until: md) {
+        width: 100%;
+      }
+
+      img {
+        width: 100%;
+      }
+    }
+  }
+  .cordinators {
+    display: flex;
+    flex-wrap: wrap;
+
+    .cordinator-item {
+        width: 50%;
+    }
+  }
 }
 
-@supports (grid-template-columns: repeat(auto-fit,minmax(25vmin,1fr))) {
+@supports (grid-template-columns: repeat(auto-fit, minmax(25vmin, 1fr))) {
   .home main .info .numbers {
     justify-content: center;
     display: grid;

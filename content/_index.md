@@ -29,6 +29,12 @@ menu:
 
 {{% /jumbo %}}
 
+<section class="text-centered logos primary">
+{{% addlogo class="primary" img="/images/logos/cape.gif" %}}
+{{% /addlogo %}}
+
+</section>
+
 <!-- ... -->
 {{% home-info class="primary" title="Organised By" src="/images/logos/cape.gif" %}}
 
@@ -41,7 +47,7 @@ menu:
 # In Collaboration with IJERT
 {{% /home-info %}}
 
-{{% addlogo class="primary" img="/images/logos/cape.gif" %}}
+{{% addlogo class="primary" img="/images/logos/ijert.png" %}}
 
 {{% /addlogo %}}
 
@@ -69,6 +75,10 @@ and applications in Artificial Intelligence, Machine Learning ,Cloud Computing,
 communication, Image processing and in various other fields of Technology.
 The conference will be conducted in the online mode.
 {{% /home-info %}}
+
+{{% addlogo class="primary" img="/images/logos/ncreis.png" %}}
+
+{{% /addlogo %}}
 
 {{% home-info class="primary" title="Venue" %}}
 
