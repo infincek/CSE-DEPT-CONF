@@ -16,7 +16,7 @@ Dr. R. Sasikumar,
 Director CAPE
 {{% /home-info %}}
 
-{{% home-info title="Co-Patron" %}}
+{{% home-info title="Conference chair" %}}
 Dr. K. G. Viswanadhan, 
 Principal,
 CE Kidangoor

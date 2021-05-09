@@ -52,7 +52,7 @@ menu:
 {{% /home-info %}}
 
 {{% addlogo class="primary" img="/images/logos/ijert.png" %}}
-(https://www.ijert.org/)
+
 {{% /addlogo %}}
 
 
@@ -62,13 +62,13 @@ menu:
 # Camera ready submission and Registration deadline- 25th June 2021
 # Dates for conference- 15th & 16th July 202
 
-All the selected papers will be published as special issue 
+<p>All the selected papers will be published as special issue 
 in International Journal of Engineering Research & Technology (IJERT) (ISSN: 
 2278-0181) which is Google Scholar and Research gate indexed. 
 (https://www.ijert.org)
 The authors are expected to submit original research papers which have not been submitted 
 else where in other Conference/Journals. Papers should be submitted in the given format 
-to (ncreis21@gmail.com)
+to (ncreis21@gmail.com)</p>
 {{% /home-info %}}
 
 
@@ -104,7 +104,7 @@ the State Entrance examinations and functioning of the college is according
 to the rules and regulations formulated by the Government of Kerala. Now 
 the institution is glistening with outstanding records in both academic and 
 extracurricular fields backed by excellent faculty and full-fledged facilities.
-CEK is an NBA accredated and ISO 9001:2015 Certified Institution
+CEK is an NBA accredated and ISO 9001:2015 Certified Institution.
 {{% /home-info %}}
 
 {{% home-info class="primary" title="Vision" %}}

@@ -60,7 +60,7 @@ of paper will be communicated to authors by email.
 issue in International Journal of Engineering Research & Technology 
 (IJERT) (ISSN: 2278-0181) which is Google Scholar and Research gate 
 indexed (https://www.ijert.org/).
-need to add paper tempolate
+need to add paper tempolate (sample paper format)
 
 # Registration fee
 * Students/Research Scholars: Rs. 1000/-

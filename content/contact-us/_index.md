@@ -31,7 +31,7 @@ Associate. Professor
 
 Dept. of CSE Dept. of CSE
 Mob:9633174462 Mob: 9497488335
-Email: ksangelviji@gmail.com
+
 </div>
 <div class="cordinator-item">
 
@@ -41,7 +41,7 @@ Asst. Professor
 
 Dept. of CSE Dept. of CSE
 Mob: 9497488335
-Email: linmaria.sebastian@gmail.com
+
 </div>
 </div>
 {{% /hero %}}
