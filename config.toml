@@ -11,7 +11,10 @@ enableMissingTranslationPlaceholders = true
 
 googleAnalytics = "UA-37717223-9"
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
     title = "DEPT of CSE Conf"

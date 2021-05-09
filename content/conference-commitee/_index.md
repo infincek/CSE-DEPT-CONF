@@ -8,34 +8,23 @@ menu:
 draft: false    
 ---
 
-{{% hero title="Patron" %}}
+{{% home-info title="Patron" %}}
+
 
 <!-- TODO: filter and search -->
-### Dr. R. Sasikumar, 
-### Director CAPE
-{{% /hero %}}
+Dr. R. Sasikumar, 
+Director CAPE
+{{% /home-info %}}
 
-{{% hero title="Co-Patron" %}}
-### Dr. K. G. Viswanadhan, 
-### Principal,
-### CE Kidangoor
-{{% /hero %}}
+{{% home-info title="Co-Patron" %}}
+Dr. K. G. Viswanadhan, 
+Principal,
+CE Kidangoor
+{{% /home-info %}}
 
-{{% hero title="Convenor" %}}
+{{% home-info title="Convenor" %}}
 
-### Dr. Ojus Thomas Lee,
-### Associate Professor & Head
-### Dept. of CSE
-{{% /hero %}}
-
-{{% hero title="Coordinators" %}}
-
-### Dr. K S Angel Viji  
-### Associate. Professor 
-### Dept. of CSE 
-#### Mob:9633174462 
-### Email: ksangelviji@gmail.com 
-
-
-{{% /hero %}}
-
+Dr. Ojus Thomas Lee,
+Associate Professor & Head
+Dept. of CSE
+{{% /home-info %}}

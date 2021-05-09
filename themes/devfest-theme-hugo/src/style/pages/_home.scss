@@ -178,7 +178,7 @@
       }
     }
   }
-
+  
   .partners {
     .inner {
       h2 {
@@ -190,7 +190,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-color: rgb(89,58,159);
+    background-color: #593a9f;
 
     @include mq($until: md) {
       display: block;
