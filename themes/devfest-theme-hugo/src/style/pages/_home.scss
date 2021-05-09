@@ -190,6 +190,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    background-color: rgb(89,58,159);
 
     @include mq($until: md) {
       display: block;

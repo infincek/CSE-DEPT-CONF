@@ -29,11 +29,15 @@ menu:
 
 {{% /jumbo %}}
 
-<section class="text-centered logos primary">
+<section class="text-center logos">
 {{% addlogo class="primary" img="/images/logos/cape.gif" %}}
 {{% /addlogo %}}
 
+
+{{% addlogo class="primary" img="/images/logos/nba.png" %}}
+{{% /addlogo %}}
 </section>
+
 
 <!-- ... -->
 {{% home-info class="primary" title="Organised By" src="/images/logos/cape.gif" %}}
