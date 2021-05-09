@@ -29,7 +29,7 @@ draft: false
 
 Associate. Professor
 
-Dept. of CSE Dept. of CSE
+Dept. of CSE
 Mob:9633174462 Mob: 9497488335
 
 </div>
@@ -39,7 +39,7 @@ Mob:9633174462 Mob: 9497488335
 
 Asst. Professor
 
-Dept. of CSE Dept. of CSE
+Dept. of  CSE
 Mob: 9497488335
 
 </div>
