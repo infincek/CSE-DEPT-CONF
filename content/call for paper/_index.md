@@ -13,8 +13,8 @@ Academicians ,researchers, experts from industry and students worldwide are invi
 the results of their research for consideration to be presented at the conference. The authors 
 who wish to contribute to the conference are solicited to submit their manuscripts that illustrate 
 concepts,Analysis,research results, projects, reviews,and applications addressing state-of-the-art 
-research and development in all areas related to Computer Science, Electronics , Electrical, 
-Information Technology .
+research and development in all areas related to Computer Science, Electronics , Electrical, and
+Information Technology.
 
 
 # Paper Submission
@@ -22,7 +22,7 @@ Information Technology .
 * Authors are invited to submit their full paper containing original work in
 the IJERT format given below. 
 * Best paper award will be given for outstanding & innovative paper
-presented in each track
+presented in each track.
 * The maximum length of paper shall be limited to 6 pages. 
 * At least one of the authors should register and present the paper in the
 conference. 
@@ -48,6 +48,26 @@ of paper will be communicated to authors by email.
 * Robotics
 * Power electronics 
 * Power systems and other related areas
+
+# Important Dates
+* Paper Submission deadline - 15th June 2021
+* Paper Acceptance Notification – 20th June 2021
+* Camera ready submission and Registration deadline- 25th June 2021
+* Dates for conference- 15th & 16th July 202
+
+# Publication Details
+* All the selected papers will be published as special
+issue in International Journal of Engineering Research & Technology 
+(IJERT) (ISSN: 2278-0181) which is Google Scholar and Research gate 
+indexed (https://www.ijert.org/).
+need to add paper tempolate
+
+# Registration fee
+* Students/Research Scholars: Rs. 1000/-
+* Delegate from R&D/ Industry/ Academics: 1500/-
+* Participation fee: 500/
+
+Need to add Brochure
 
 {{% /hero %}}
 

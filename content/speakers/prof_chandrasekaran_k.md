@@ -3,7 +3,7 @@ key: prof_chandrasekaran_k
 name: Prof. (Dr.) Chandrasekaran K
 id: 1
 feature: true
-company: Prof
+
 city: NIT, Surathkal
 photoURL: https://i.imgur.com/8XAW9Y3.png
 

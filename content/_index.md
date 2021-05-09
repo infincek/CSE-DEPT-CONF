@@ -52,15 +52,23 @@ menu:
 {{% /home-info %}}
 
 {{% addlogo class="primary" img="/images/logos/ijert.png" %}}
-
+(https://www.ijert.org/)
 {{% /addlogo %}}
 
 
 {{% home-info class="primary" title="Important dates" %}}
-# Important Dates: Paper Submission - 15th June 2021
+# Paper Submission deadline - 15th June 2021
 # Paper Acceptance Notification – 20th June 2021
 # Camera ready submission and Registration deadline- 25th June 2021
 # Dates for conference- 15th & 16th July 202
+
+All the selected papers will be published as special issue 
+in International Journal of Engineering Research & Technology (IJERT) (ISSN: 
+2278-0181) which is Google Scholar and Research gate indexed. 
+(https://www.ijert.org)
+The authors are expected to submit original research papers which have not been submitted 
+else where in other Conference/Journals. Papers should be submitted in the given format 
+to (ncreis21@gmail.com)
 {{% /home-info %}}
 
 
@@ -68,15 +76,15 @@ menu:
 
 Department of Computer Science and Engineering , College of Engineering Kidangoor is 
 organizing ‘National Conference on Novel & Challenging Issues and Recent Innovations in 
-Engineering and Information Sciences 2021’ (NCREIS ’21) from 15th to 16th of July 2021
-NCREIS ’21, is the second version of NCREIS. NCREIS is organized as a platform to 
-publish the research work by Research scholars, delegates from industry and academicians. 
+Engineering and Information Sciences 2021’ (NCREIS ’21) from 15th to 16th of July 2021.
+NCREIS ’21, is the second version of NCREIS. NCREIS is organized as a platform to share, interact with other researchers and to
+publish the research work by Research scholars, delegates from industry and academians. 
 Participants from diverse areas can share their innovations, experiences and research results 
 from various domains of Computer Science, Information Technology, Electronics and 
 Electrical Engineering. The conference will provide an opportunity to the professionals, 
 researchers and practicing engineers to meet in a forum to discuss the recent research trends 
 and applications in Artificial Intelligence, Machine Learning ,Cloud Computing, 
-communication, Image processing and in various other fields of Technology.
+communication, Image processing, robotics, power systems and in various other fields of Technology.
 The conference will be conducted in the online mode.
 {{% /home-info %}}
 
@@ -96,7 +104,7 @@ the State Entrance examinations and functioning of the college is according
 to the rules and regulations formulated by the Government of Kerala. Now 
 the institution is glistening with outstanding records in both academic and 
 extracurricular fields backed by excellent faculty and full-fledged facilities.
-CEK is an ISO 9001:2015 Certified Institution
+CEK is an NBA accredated and ISO 9001:2015 Certified Institution
 {{% /home-info %}}
 
 {{% home-info class="primary" title="Vision" %}}
@@ -114,13 +122,13 @@ society and industry, and to prepare them for higher engineering education
 
 {{% home-info class="primary" title="About Department" %}}
 
-Department of Computer Science & Engineering
+# Department of Computer Science & Engineering
 Computer Science Department was established in 2000 with BTech program. Department’s 
 mission is to become a center of excellence in Computer Science and Engineering imparting 
 quality professional education to develop competent professionals with social values who are 
 capable of life long learning. MTech in Computer and Information Science has started in 2010. The department was accredited by NBA in 2019. The department has a long tradition 
 of producing technically competent engineers since 2004 and it has renowned alumni 
-occupying prominent positions in the industry, academia and research all over the world. Department phot
+occupying prominent positions in the industry, academia and research all over the world. 
 
 {{% /home-info %}}
 <!-- 

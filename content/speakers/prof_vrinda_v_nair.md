@@ -1,9 +1,9 @@
 ---
 key: prof_vrinda_v_nair
 name: Prof. Dr. Vrinda V Nair
-id: 3
+id: 2
 feature: true
-company: Prof
+
 city: Director of SPFU, Trivandrum
 photoURL: https://i.imgur.com/HZkUQpy.png
 
