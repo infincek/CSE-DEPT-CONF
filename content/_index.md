@@ -68,7 +68,7 @@ in International Journal of Engineering Research & Technology (IJERT) (ISSN:
 (https://www.ijert.org)
 The authors are expected to submit original research papers which have not been submitted 
 else where in other Conference/Journals. Papers should be submitted in the given format 
-to (ncreis21@gmail.com)</p>
+to ncreis21@gmail.com</p>
 {{% /home-info %}}
 
 
