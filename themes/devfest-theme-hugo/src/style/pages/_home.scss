@@ -15,7 +15,6 @@
       font-weight: bold;
     }
   }
-  
 
   .info {
     display: flex;
@@ -178,7 +177,7 @@
       }
     }
   }
-  
+
   .partners {
     .inner {
       h2 {
@@ -191,7 +190,6 @@
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    
 
     @include mq($until: md) {
       display: block;
@@ -205,22 +203,28 @@
       }
 
       img {
-        width: 50%;
+        width: 70%;
       }
     }
   }
-  body {
-    background-color: red;
-  }
-  .cordinators {
-    display: flex;
-    flex-wrap: wrap;
+}
 
-    .cordinator-item {
-        width: 50%;
+#coordinators {
+  text-align: center;
+}
+.cordinators {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
 
-    }
+  .cordinator-item {
+    width: 50%;
+    text-align: center;
   }
+}
+
+.conference-committe-members {
+  margin-top: 90px;
 }
 
 @supports (grid-template-columns: repeat(auto-fit, minmax(25vmin, 1fr))) {
