@@ -5,7 +5,7 @@
 		{{ .Inner }}
 	</div>
 
-	<ul class="shuffle">
+	<ul class="noshuffle">
 		{{ range where $.Site.AllPages "Params.feature" true }}
 		<li>
 			{{ partial "speaker.html" . }}

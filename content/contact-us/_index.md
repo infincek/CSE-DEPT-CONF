@@ -6,14 +6,7 @@ menu:
 
 draft: false    
 ---
----
-title: Contact Us
-menu:
-  main:
-    weight: 90
 
-draft: false
----
 
 {{% hero %}}
 

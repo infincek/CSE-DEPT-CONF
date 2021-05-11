@@ -29,12 +29,18 @@ menu:
 
 {{% /jumbo %}}
 
-<section class="text-center logos">
+<section class="text-center primary logos">
 {{% addlogo class="primary" img="/images/logos/cape.gif" %}}
 {{% /addlogo %}}
 
 
 {{% addlogo class="primary" img="/images/logos/nba.png" %}}
+{{% /addlogo %}}
+
+{{% addlogo class="primary" img="/images/logos/teoip.png" %}}
+{{% /addlogo %}}
+
+{{% addlogo class="primary" img="/images/logos/iso.jfif" %}}
 {{% /addlogo %}}
 </section>
 
@@ -51,9 +57,11 @@ menu:
 # In Collaboration with IJERT
 {{% /home-info %}}
 
+<section class="logos primary">
 {{% addlogo class="primary" img="/images/logos/ijert.png" %}}
 
 {{% /addlogo %}}
+</section>
 
 
 {{% home-info class="primary" title="Important dates" %}}
@@ -61,14 +69,17 @@ menu:
 # Paper Acceptance Notification – 20th June 2021
 # Camera ready submission and Registration deadline- 25th June 2021
 # Dates for conference- 15th & 16th July 202
+{{% /home-info %}}
 
-<p>All the selected papers will be published as special issue 
-in International Journal of Engineering Research & Technology (IJERT) (ISSN: 
-2278-0181) which is Google Scholar and Research gate indexed. 
-(https://www.ijert.org)
-The authors are expected to submit original research papers which have not been submitted 
-else where in other Conference/Journals. Papers should be submitted in the given format 
-to ncreis21@gmail.com</p>
+
+{{% home-info class="primary" %}}
+### All the selected papers will be published as special issue 
+### in International Journal of Engineering Research & Technology (IJERT) (ISSN: 
+### 2278-0181) which is Google Scholar and Research gate indexed. 
+### (https://www.ijert.org)
+### The authors are expected to submit original research papers which have not been submitted 
+### else where in other Conference/Journals. Papers should be submitted in the given format 
+### to ncreis21@ce-kgr.org
 {{% /home-info %}}
 
 
@@ -88,10 +99,11 @@ communication, Image processing, robotics, power systems and in various other fi
 The conference will be conducted in the online mode.
 {{% /home-info %}}
 
+<section class="logos primary">
 {{% addlogo class="primary" img="/images/logos/ncreis.png" %}}
 
 {{% /addlogo %}}
-
+</section>
 {{% home-info class="primary" title="Venue" %}}
 
 # College of Engineering Kidangoor
@@ -104,7 +116,7 @@ the State Entrance examinations and functioning of the college is according
 to the rules and regulations formulated by the Government of Kerala. Now 
 the institution is glistening with outstanding records in both academic and 
 extracurricular fields backed by excellent faculty and full-fledged facilities.
-CEK is an NBA accredated and ISO 9001:2015 Certified Institution.
+CEK is an NBA accredited  and ISO 9001:2015 Certified Institution.
 {{% /home-info %}}
 
 {{% home-info class="primary" title="Vision" %}}
@@ -131,54 +143,7 @@ of producing technically competent engineers since 2004 and it has renowned alum
 occupying prominent positions in the industry, academia and research all over the world. 
 
 {{% /home-info %}}
-<!-- 
-{{% home-info what="Participants:400,Day:1,Sessions:32,Parallel Tracks:4" class="primary" %}}
 
-<!-- it
-
-"Participants:400,Day:1,Sessions:32,Parallel Tracks:4" -->
- <!-->
-## What is DevFest du Bout du Monde?
-
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
-
-{{% /home-info %}}
-
-<!-- ... -->
-
-<!-- 
-{{% home-tickets %}}
-<a class="btn primary" href="https://www.billetweb.fr/devfest-bdm-2020" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
-
-<ul>
-<li>{{< ticket name="Pre Early Birds"
-           starts="2019-11-22"
-           ends="2019-11-30"
-           price="20 €"
-           info="25 first places"
-           close="true"
-           url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
-
-<li>{{< ticket name="Early Birds"
-           starts="2019-12-01"
-           ends="2019-12-15"
-           price="25 €"
-           info="50 next places"
-           close="true"
-           url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
-           
-<li>{{< ticket name="Normal"
-           starts="2019-12-16"
-           ends="2020-02-27"
-           price="30 €"
-           info="325 remaining places"
-           url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
-</ul>
-{{% /home-tickets %}}
-
-
-<!-- ... -->
 
 {{% home-speakers %}}
 ## Featured Speakers
@@ -192,7 +157,7 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-location
-    image="/images/backgrounds/cse-dept.jpeg"
+    image="/images/backgrounds/main-block.jpg"
     address="College of Engineering, KIDANGOOR SOUTH P.O"
     latitude="9.671076150813363"
     longitude="76.62033210928175" %}}

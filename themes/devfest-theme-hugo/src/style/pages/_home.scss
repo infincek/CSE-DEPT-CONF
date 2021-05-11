@@ -190,7 +190,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-color: #593a9f;
+    
 
     @include mq($until: md) {
       display: block;
@@ -204,7 +204,7 @@
       }
 
       img {
-        width: 100%;
+        width: 50%;
       }
     }
   }
@@ -214,6 +214,7 @@
 
     .cordinator-item {
         width: 50%;
+
     }
   }
 }
