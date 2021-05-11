@@ -46,6 +46,9 @@ Associate Professor & Head
 Dept. of CSE
 {{% /conference-committee %}}
 
+
+
+
 {{% conference-committee class="text-centered" title="Organizing Committee" %}}
 
 <p>Jyothis Joseph, Asst. Professor,CSE</p>
@@ -76,3 +79,33 @@ Dept. of CSE
 Engineering, Tamil Nadu
 {{% /conference-committee %}}
 </section>
+
+{{% hero %}}
+
+<!-- TODO: filter and search -->
+
+## Coordinators
+
+<div class="cordinators">
+<div class="cordinator-item">
+
+### Dr. K S Angel Viji
+
+Associate. Professor
+
+Dept. of CSE
+Mob:9633174462 Mob: 9497488335
+
+</div>
+<div class="cordinator-item">
+
+### Linda Sebastian
+
+Asst. Professor
+
+Dept. of  CSE
+Mob: 9497488335
+
+</div>
+</div>
+{{% /hero %}}
