@@ -190,6 +190,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: center;
     
 
     @include mq($until: md) {
@@ -207,6 +208,9 @@
         width: 50%;
       }
     }
+  }
+  body {
+    background-color: red;
   }
   .cordinators {
     display: flex;
