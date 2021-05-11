@@ -222,6 +222,15 @@
     text-align: center;
   }
 }
+.logos.publications {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  .inner {
+      padding: 1rem;
+  }
+}
 
 .conference-committe-members {
   margin-top: 90px;

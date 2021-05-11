@@ -20,7 +20,7 @@ indexed (https://www.ijert.org/)
 
 {{% /home-info %}}
 
-<section class="logos text-centered">
+<section class="logos text-centered publications">
 {{% addlogo img="/images/logos/International-Journal-of-Engineering-Research-technology-2019-Cover.png" %}}
 {{% /addlogo %}}
 
