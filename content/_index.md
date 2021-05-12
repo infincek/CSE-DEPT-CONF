@@ -29,6 +29,14 @@ menu:
 
 {{% /jumbo %}}
 
+{{% home-info class="primary" title="Download Brochure"%}}
+<div class="downlaod">
+<i class="fa fa-download" aria-hidden="true"></i>
+</div>
+{{% /home-info %}}
+
+
+
 <section class="text-center primary logos">
 {{% addlogo class="primary" img="/images/logos/cape.gif" %}}
 {{% /addlogo %}}
@@ -44,9 +52,8 @@ menu:
 {{% /addlogo %}}
 </section>
 
-
 <!-- ... -->
-{{% home-info class="primary" title="Organised By" src="/images/logos/cape.gif" %}}
+{{% home-info class="primary" title="Organised By"%}}
 
 # Department of Computer Science & Engineering
 # **(Accredited by NBA) (2019-2022)**
@@ -55,10 +62,12 @@ menu:
 # Sponsored by
 # TEQIP-II
 # In Collaboration with IJERT
+
+# https://www.ijert.org/
 {{% /home-info %}}
 
 <section class="logos primary">
-{{% addlogo class="primary" img="/images/logos/ijert.png" %}}
+{{% addlogo class="primary" img="/images/logos/ijert.png" href="https://www.ijert.org/" %}}
 
 {{% /addlogo %}}
 </section>

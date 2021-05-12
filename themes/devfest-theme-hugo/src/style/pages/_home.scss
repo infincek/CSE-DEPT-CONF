@@ -28,7 +28,8 @@
 
     @include mq($until: md) {
       text-align: center;
-    }
+    
+    )
 
     .inner {
       flex: 1 1 auto;
@@ -38,11 +39,17 @@
       justify-content: center;
       text-align: center;
 
+      .download {
+        display: block;
+      }
+  
       @include mq($until: xl) {
         max-width: 100%;
+
       }
     }
-
+    
+   
     .numbers {
       flex: 1 0 33vw;
       margin: 0 2rem;
@@ -203,7 +210,7 @@
       }
 
       img {
-        width: 70%;
+        width: 50%;
       }
     }
   }
@@ -234,6 +241,7 @@
 
 .conference-committe-members {
   margin-top: 90px;
+  text-align: center;
 }
 
 @supports (grid-template-columns: repeat(auto-fit, minmax(25vmin, 1fr))) {

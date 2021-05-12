@@ -18,7 +18,8 @@ Dr. R. Sasikumar,
 Director CAPE
 {{% /conference-committee %}}
 
-{{% conference-committee title="Co-Patron" %}}
+
+{{% conference-committee title="Conference chairman" %}}
 Dr. K. G. Viswanadhan, 
 Principal,
 CE Kidangoor
@@ -33,11 +34,6 @@ Dept. of CSE
 
 
 
-{{% conference-committee title="Conference chair" %}}
-Dr. K. G. Viswanadhan, 
-Principal,
-CE Kidangoor
-{{% /conference-committee %}}
 
 {{% conference-committee title="Convenor" %}}
 

@@ -18,9 +18,10 @@
 
 	{{ hugo.Generator }}
 	<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+	
 
 	<title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
-	
+	<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 	{{ if .Site.Params.appleTouchIcon }}
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.Params.appleTouchIcon }}">
 	{{ end }}
