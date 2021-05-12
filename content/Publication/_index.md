@@ -46,4 +46,6 @@ indexed (https://www.ijert.org/)
 # Dates for conference- 15th & 16th July 202
 {{% /home-info %}}
 
-
+{{% home-info %}}
+#  [Download Brochure<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>](/NCREIS.pdf) 
+{{% /home-info %}}

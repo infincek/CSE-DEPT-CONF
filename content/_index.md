@@ -31,7 +31,17 @@ menu:
 
 {{% home-info class="primary" title="Download Brochure"%}}
 <div class="downlaod">
-<i class="fa fa-download" aria-hidden="true"></i>
+<a href="/NCREIS.pdf">
+<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>
+</a>
+</div>
+{{% /home-info %}}
+
+{{% home-info class="primary" title="Download sample paper"%}}
+<div class="downlaod">
+<a href="/images/IJERT_Paper_Template.doc">
+<i class="fa fa-download" aria-hidden="true""></i>
+</a>
 </div>
 {{% /home-info %}}
 

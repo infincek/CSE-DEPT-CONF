@@ -28,8 +28,7 @@
 
     @include mq($until: md) {
       text-align: center;
-    
-    )
+    }
 
     .inner {
       flex: 1 1 auto;
@@ -42,14 +41,12 @@
       .download {
         display: block;
       }
-  
+
       @include mq($until: xl) {
         max-width: 100%;
-
       }
     }
-    
-   
+
     .numbers {
       flex: 1 0 33vw;
       margin: 0 2rem;
@@ -204,13 +201,14 @@
 
     .inner {
       width: 22.3333%;
+      padding: 2rem;
 
       @include mq($until: md) {
         width: 100%;
       }
 
       img {
-        width: 50%;
+        width: 100%;
       }
     }
   }
@@ -235,7 +233,7 @@
   align-items: center;
 
   .inner {
-      padding: 1rem;
+    padding: 1rem;
   }
 }
 

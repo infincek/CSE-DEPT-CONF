@@ -67,7 +67,7 @@ need to add paper tempolate (sample paper format)
 * Delegate from R&D/ Industry/ Academics: 1500/-
 * Participation fee: 500/
 
-Need to add Brochure
 
+#  [Download Brochure<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>](/NCREIS.pdf) 
 {{% /hero %}}
 

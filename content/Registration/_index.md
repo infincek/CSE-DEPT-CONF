@@ -19,3 +19,7 @@ Online presentation is allowed.
 <p>Delegate from R&D/ Industry/ Academics Rs.1500/-
 <p>Participation fee: Rs.500/-
 {{% /home-info %}}
+
+{{% home-info %}}
+#  [Download Brochure<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>](/NCREIS.pdf) 
+{{% /home-info %}}
