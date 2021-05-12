@@ -197,13 +197,14 @@
 
     .inner {
       width: 22.3333%;
+      padding: 2rem;
 
       @include mq($until: md) {
         width: 100%;
       }
 
       img {
-        width: 70%;
+        width: 100%;
       }
     }
   }
