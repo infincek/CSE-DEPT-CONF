@@ -31,7 +31,7 @@ menu:
 
 
 <section class="text-center primary logos">
-{{% addlogo class="primary" img="/images/logos/cape.gif" %}}
+{{% addlogo class="primary" img="/images/logos/cape.png" %}}
 {{% /addlogo %}}
 
 
@@ -41,7 +41,7 @@ menu:
 {{% addlogo class="primary" img="/images/logos/teoip.png" %}}
 {{% /addlogo %}}
 
-{{% addlogo class="primary" img="/images/logos/iso.jfif" %}}
+{{% addlogo class="primary" img="/images/logos/iso.png" %}}
 {{% /addlogo %}}
 </section>
 
@@ -104,7 +104,7 @@ The conference will be conducted in the online mode.
 {{% /home-info %}}
 
 <section class="logos primary">
-{{% addlogo class="primary" img="/images/logos/ncreis.png" %}}
+{{% addlogo class="primary" img="/images/logos/ncrei.png" %}}
 
 {{% /addlogo %}}
 </section>
@@ -150,8 +150,8 @@ occupying prominent positions in the industry, academia and research all over th
 
 {{% home-info class="primary" title="Download Brochure"%}}
 <div class="downlaod">
-<a href="/NCREIS.pdf">
-<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>
+<a href="/ncreis.pdf">
+<i class="fa fa-download" aria-hidden="true"></i>
 </a>
 </div>
 {{% /home-info %}}
