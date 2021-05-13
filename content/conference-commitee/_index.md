@@ -35,16 +35,6 @@ Dept. of CSE
 
 
 
-{{% conference-committee title="Convenor" %}}
-
-Dr. Ojus Thomas Lee,
-Associate Professor & Head
-Dept. of CSE
-{{% /conference-committee %}}
-
-
-
-
 {{% conference-committee class="text-centered" title="Organizing Committee" %}}
 
 <p>Jyothis Joseph, Asst. Professor,CSE</p>
@@ -90,7 +80,7 @@ Engineering, Tamil Nadu
 Associate. Professor
 
 Dept. of CSE
-Mob:9633174462 Mob: 9497488335
+Mob:9633174462
 
 </div>
 <div class="cordinator-item">

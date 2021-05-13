@@ -23,8 +23,7 @@ draft: false
 Associate. Professor
 
 Dept. of CSE
-Mob:9633174462 Mob: 9497488335
-
+Mob:9633174462 
 </div>
 <div class="cordinator-item">
 

@@ -29,23 +29,6 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info class="primary" title="Download Brochure"%}}
-<div class="downlaod">
-<a href="/NCREIS.pdf">
-<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>
-</a>
-</div>
-{{% /home-info %}}
-
-{{% home-info class="primary" title="Download sample paper"%}}
-<div class="downlaod">
-<a href="/images/IJERT_Paper_Template.doc">
-<i class="fa fa-download" aria-hidden="true""></i>
-</a>
-</div>
-{{% /home-info %}}
-
-
 
 <section class="text-center primary logos">
 {{% addlogo class="primary" img="/images/logos/cape.gif" %}}
@@ -92,13 +75,13 @@ menu:
 
 
 {{% home-info class="primary" %}}
-### All the selected papers will be published as special issue 
-### in International Journal of Engineering Research & Technology (IJERT) (ISSN: 
-### 2278-0181) which is Google Scholar and Research gate indexed. 
-### (https://www.ijert.org)
-### The authors are expected to submit original research papers which have not been submitted 
-### else where in other Conference/Journals. Papers should be submitted in the given format 
-### to ncreis21@ce-kgr.org
+# All the selected papers will be published as special issue 
+# in International Journal of Engineering Research & Technology (IJERT) (ISSN: 
+# 2278-0181) which is Google Scholar and Research gate indexed. 
+# (https://www.ijert.org)
+# The authors are expected to submit original research papers which have not been submitted 
+# else where in other Conference/Journals. Papers should be submitted in the given format 
+# to ncreis21@ce-kgr.org
 {{% /home-info %}}
 
 
@@ -163,6 +146,21 @@ occupying prominent positions in the industry, academia and research all over th
 
 {{% /home-info %}}
 
+{{% home-info class="primary" title="Download Brochure"%}}
+<div class="downlaod">
+<a href="/NCREIS.pdf">
+<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>
+</a>
+</div>
+{{% /home-info %}}
+
+{{% home-info class="primary" title="Download Paper template"%}}
+<div class="downlaod">
+<a href="/images/IJERT_Paper_Template.doc">
+<i class="fa fa-download" aria-hidden="true""></i>
+</a>
+</div>
+{{% /home-info %}}
 
 {{% home-speakers %}}
 ## Featured Speakers

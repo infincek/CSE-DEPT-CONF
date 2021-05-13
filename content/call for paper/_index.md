@@ -69,5 +69,7 @@ need to add paper tempolate (sample paper format)
 
 
 #  [Download Brochure<i class="fa fa-download" aria-hidden="true" href="/NCREIS.pdf"></i>](/NCREIS.pdf) 
+
+ # [Download Paper template<i class="fa fa-download" aria-hidden="true"></i>](/images/IJERT_Paper_Template.doc)
 {{% /hero %}}
 
