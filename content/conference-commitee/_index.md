@@ -39,7 +39,7 @@ Dept. of CSE
 
 <h3>Linda Sebastian</h3>
 <p>Asst. Professor</p>
-<p>Dept. of CSE Mob</p>
+<p>Dept. of CSE</p>
 {{% /conference-committee %}}
 
 {{% conference-committee class="text-centered" title="Organizing Committee" %}}
