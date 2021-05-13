@@ -1,0 +1,10 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+
+	<div class="nceris {{ .Get "class" }}">
+		<a href="{{ .Get "href" | default "#" }}">
+    		<img class="img-fluid" src="{{ .Get "img" }}">
+		</a>
+		{{ .Inner }}
+	</div>
+

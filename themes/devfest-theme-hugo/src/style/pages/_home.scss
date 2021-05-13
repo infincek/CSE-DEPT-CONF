@@ -201,7 +201,19 @@
 
     .inner {
       width: 22.3333%;
-      padding: 2rem;
+      padding: 0.5rem;
+
+      @include mq($until: md) {
+        width: 100%;
+      }
+
+      img {
+        width: 55%;
+      }
+    }
+    .ncreis {
+      width: 22.3333%;
+      padding: 0.5rem;
 
       @include mq($until: md) {
         width: 100%;

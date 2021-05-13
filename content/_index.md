@@ -59,14 +59,12 @@ menu:
 # https://www.ijert.org/
 {{% /home-info %}}
 
+
 <section class="logos primary">
+{{% ncreis-logo class="primary" img="/images/logos/ijert.png" href="https://www.ijert.org/" %}}
 
-{{% addlogo class="primary" img="/images/logos/ijert.png" href="https://www.ijert.org/" %}}
-
-{{% /addlogo %}}
-
+{{% /ncreis-logo %}}
 </section>
-
 
 {{% home-info class="primary" title="Important dates" %}}
 # Paper Submission deadline - 15th June 2021
@@ -87,7 +85,7 @@ menu:
 {{% /home-info %}}
 
 
-{{% home-info  class="primary" title="ABOUT NCREIS ‘21" %}}
+{{% home-info  class="primary" title="About NCREIS ‘21" %}}
 
 Department of Computer Science and Engineering , College of Engineering Kidangoor is 
 organizing ‘National Conference on Novel & Challenging Issues and Recent Innovations in 
@@ -104,9 +102,9 @@ The conference will be conducted in the online mode.
 {{% /home-info %}}
 
 <section class="logos primary">
-{{% addlogo class="primary" img="/images/logos/ncrei.png" %}}
+{{% ncreis-logo class="primary" img="/images/logos/ncrei.png" %}}
 
-{{% /addlogo %}}
+{{% /ncreis-logo %}}
 </section>
 {{% home-info class="primary" title="Venue" %}}
 
