@@ -32,8 +32,15 @@ Associate Professor & Head
 Dept. of CSE
 {{% /conference-committee %}}
 
+{{% conference-committee title="Coordinators" %}}
+<h3>Dr. K S Angel Viji</h3>
+<p>Associate. Professor
+<p>Dept. of CSE
 
-
+<h3>Linda Sebastian</h3>
+<p>Asst. Professor</p>
+<p>Dept. of CSE Mob</p>
+{{% /conference-committee %}}
 
 {{% conference-committee class="text-centered" title="Organizing Committee" %}}
 
@@ -60,38 +67,9 @@ Dept. of CSE
 <p>Dr. G.Raju, Former Professor & Dean, School of IT, Kannur University.
 <p>Dr. R. Rajesh, Head, Dept. of CSE, Central University, Kasargod
 <p>Prof. Vinod Chandra S.S., Director, Computer Centre, Kerala University
-<p>Dr. Sunil Kumar P.V., Associate Professor, Dept. of CSE, CMR IT, Bangalore
+<p>Dr. Sunil Kumar P.V., Associate Professor,School of Computer Science & Engg, VIT Vellore
 <p>Dr. D. Hevin Rajesh, Associate Professor, Dept. of IT, St. Xavier’s Catholic College of 
 Engineering, Tamil Nadu
 {{% /conference-committee %}}
 </section>
 
-{{% hero %}}
-
-<!-- TODO: filter and search -->
-
-## Coordinators
-
-<div class="cordinators">
-<div class="cordinator-item">
-
-### Dr. K S Angel Viji
-
-Associate. Professor
-
-Dept. of CSE
-Mob:9633174462
-
-</div>
-<div class="cordinator-item">
-
-### Linda Sebastian
-
-Asst. Professor
-
-Dept. of  CSE
-Mob: 9497488335
-
-</div>
-</div>
-{{% /hero %}}

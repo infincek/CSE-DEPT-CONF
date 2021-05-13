@@ -225,8 +225,12 @@
   .cordinator-item {
     width: 50%;
     text-align: center;
+
+    
+    
   }
 }
+
 .logos.publications {
   display: flex;
   flex-wrap: wrap;
@@ -240,6 +244,7 @@
 .conference-committe-members {
   margin-top: 90px;
   text-align: center;
+  
 }
 
 @supports (grid-template-columns: repeat(auto-fit, minmax(25vmin, 1fr))) {

@@ -2,7 +2,9 @@
 
 
 	<div class="inner {{ .Get "class" }}">
-    <img class="img-fluid" src="{{ .Get "img" }}">
+		<a href="{{ .Get "href" }}">
+    		<img class="img-fluid" src="{{ .Get "img" }}">
+		</a>
 		{{ .Inner }}
 	</div>
 

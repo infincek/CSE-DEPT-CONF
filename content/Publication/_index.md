@@ -35,6 +35,10 @@ indexed (https://www.ijert.org/)
 
 {{% addlogo img="/images/logos/ijert-impact-factor-2019-2020-.png" %}}
 {{% /addlogo %}}
+
+{{% addlogo class="primary" img="/images/logos/ijert.png" href="https://www.ijert.org/" %}}
+{{% /addlogo %}}
+
 </section>
 
 

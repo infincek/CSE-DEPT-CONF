@@ -60,9 +60,11 @@ menu:
 {{% /home-info %}}
 
 <section class="logos primary">
+
 {{% addlogo class="primary" img="/images/logos/ijert.png" href="https://www.ijert.org/" %}}
 
 {{% /addlogo %}}
+
 </section>
 
 
@@ -76,8 +78,8 @@ menu:
 
 {{% home-info class="primary" %}}
 # All the selected papers will be published as special issue 
-# in International Journal of Engineering Research & Technology (IJERT) (ISSN: 
-# 2278-0181) which is Google Scholar and Research gate indexed. 
+# in International Journal of Engineering Research & Technology (IJERT) 
+# (ISSN: 2278-0181) which is Google Scholar and Research gate indexed. 
 # (https://www.ijert.org)
 # The authors are expected to submit original research papers which have not been submitted 
 # else where in other Conference/Journals. Papers should be submitted in the given format 
