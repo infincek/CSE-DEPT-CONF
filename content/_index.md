@@ -87,18 +87,7 @@ menu:
 
 {{% home-info  class="primary" title="About NCREIS ‘21" %}}
 
-Department of Computer Science and Engineering , College of Engineering Kidangoor is 
-organizing ‘National Conference on Novel & Challenging Issues and Recent Innovations in 
-Engineering and Information Sciences 2021’ (NCREIS ’21) from 15th to 16th of July 2021.
-NCREIS ’21, is the second version of NCREIS. NCREIS is organized as a platform to share, interact with other researchers and to
-publish the research work by Research scholars, delegates from industry and academians. 
-Participants from diverse areas can share their innovations, experiences and research results 
-from various domains of Computer Science, Information Technology, Electronics and 
-Electrical Engineering. The conference will provide an opportunity to the professionals, 
-researchers and practicing engineers to meet in a forum to discuss the recent research trends 
-and applications in Artificial Intelligence, Machine Learning ,Cloud Computing, 
-communication, Image processing, robotics, power systems and in various other fields of Technology.
-The conference will be conducted in the online mode.
+<p>Department of Computer Science and Engineering , College of Engineering Kidangoor is organizing ‘National Conference on Novel & Challenging Issues and Recent Innovations in Engineering and Information Sciences 2021’ (NCREIS ’21) from 15th to 16th of July 2021.NCREIS ’21, is the second version of NCREIS. NCREIS is organized as a platform to share, interact with other researchers and topublish the research work by Research scholars, delegates from industry and academians. Participants from diverse areas can share their innovations, experiences and research results from various domains of Computer Science, Information Technology, Electronics and Electrical Engineering. The conference will provide an opportunity to the professionals, researchers and practicing engineers to meet in a forum to discuss the recent research trends and applications in Artificial Intelligence, Machine Learning ,Cloud Computing, communication, Image processing, robotics, power systems and in various other fields of Technology.The conference will be conducted in the online mode.<p>
 {{% /home-info %}}
 
 <section class="logos primary">
