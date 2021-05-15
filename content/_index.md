@@ -67,7 +67,7 @@ menu:
 </section>
 
 {{% home-info class="primary" title="Important dates" %}}
-# Paper Submission deadline - 15th June 2021
+# Paper Submission deadline - 15,16 July 2021
 # Paper Acceptance Notification – 20th June 2021
 # Camera ready submission and Registration deadline- 25th June 2021
 # Dates for conference- 15th & 16th July 202
@@ -129,7 +129,7 @@ society and industry, and to prepare them for higher engineering education
 Computer Science Department was established in 2000 with BTech program. Department’s 
 mission is to become a center of excellence in Computer Science and Engineering imparting 
 quality professional education to develop competent professionals with social values who are 
-capable of life long learning. MTech in Computer and Information Science has started in 2010. The department was accredited by NBA in 2019. The department has a long tradition 
+capable of life long learning. MTech in Computer and Information Science has started in 2014. The department was accredited by NBA in 2019. The department has a long tradition 
 of producing technically competent engineers since 2004 and it has renowned alumni 
 occupying prominent positions in the industry, academia and research all over the world. 
 

@@ -6,7 +6,9 @@ menu:
 
 draft: false    
 ---
+{{% hero title="Contact us" %}}
 
+{{% /hero %}}
 
 {{% hero %}}
 

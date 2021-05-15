@@ -7,7 +7,9 @@ menu:
 
 draft: false    
 ---
+{{% hero title="Conference Committee" %}}
 
+{{% /hero %}}
 
 <section class="conference-committe-members">
 {{% conference-committee title="Patron" %}}

@@ -6,7 +6,9 @@ menu:
 
 draft: false
 ---
+{{% hero title="Featured Speakers" %}}
 
+{{% /hero %}}
 {{% hero %}}
 <!-- TODO: filter and search -->
 {{% /hero %}}

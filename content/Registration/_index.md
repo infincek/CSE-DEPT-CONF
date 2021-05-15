@@ -6,6 +6,8 @@ menu:
 
 draft: false    
 ---
+{{% hero title="Registration" %}}
+{{% /hero %}}
 
 {{% hero %}}
 It is mandatory that at least one author of all accepted papers should register for the conference.

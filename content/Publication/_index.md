@@ -8,6 +8,9 @@ menu:
 draft: false
 
 ---
+{{% hero title="Publication" %}}
+
+{{% /hero %}}
 
 {{% hero %}}
 All the peer reviewed and accepted papers will be published as special 
@@ -44,7 +47,7 @@ indexed (https://www.ijert.org/)
 
 
 {{% home-info title="Important dates" %}}
-# Paper Submission deadline - 15th June 2021
+# Paper Submission deadline - 15,16 July 2021
 # Paper Acceptance Notification – 20th June 2021
 # Camera ready submission and Registration deadline- 25th June 2021
 # Dates for conference- 15th & 16th July 202
