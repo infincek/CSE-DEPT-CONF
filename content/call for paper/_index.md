@@ -50,9 +50,9 @@ of paper will be communicated to authors by email.
 * Power systems and other related areas
 
 # Important Dates
-* Paper Submission deadline - 15 june 2021
-* Paper Acceptance Notification – 20th June 2021
-* Camera ready submission and Registration deadline- 25th June 2021
+* Paper Submission deadline - 23th June 2021
+* Paper Acceptance Notification – 28th June 2021
+* Camera ready submission and Registration deadline- 2nd July 2021
 * Dates for conference- 15th & 16th July 2021
 
 # Publication Details
