@@ -70,7 +70,7 @@ menu:
 # Paper Submission deadline - 23rd June 2021
 # Paper Acceptance Notification – 28th June 2021
 # Camera ready submission and registration deadline: 2nd July 2021
-
+# Dates for conference- 15th & 16th July 2021
 {{% /home-info %}}
 
 
